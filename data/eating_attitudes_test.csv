@@ -1,0 +1,890 @@
+﻿subj,EAT1,EAT2,EAT3,EAT4,EAT5,EAT6,EAT7,EAT8,EAT9,EAT10,EAT11,EAT12,EAT13,EAT14,EAT15,EAT16,EAT17,EAT18,EAT19,EAT20,EAT21,EAT22,EAT23,EAT24,EAT25,EAT26
+1000,Sometimes,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Often
+1001,Always,Rarely,Sometimes,Sometimes,Never,Usually,Sometimes,Never,Never,Often,Often,Usually,Never,Often,Rarely,Usually,Sometimes,Often,Rarely,Never,Usually,Sometimes,Often,Rarely,Never,Always
+1002,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Often,Rarely,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Rarely
+1003,Always,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Usually,Usually,Never,Often,Rarely,Rarely,Rarely,Rarely,Often,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Sometimes
+1004,Rarely,Never,Rarely,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Often,Rarely,Never,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Never,Often
+1005,Often,Rarely,Sometimes,Never,Never,Usually,Rarely,Usually,Never,Never,Never,Rarely,Usually,Rarely,Never,Often,Never,Never,Never,Never,Sometimes,Often,Never,Never,Never,Often
+1006,Usually,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Often,Never,Never,Never,Never,Always
+1007,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Often,Rarely,Never,Rarely,Never,Never,Never,Rarely
+1008,Sometimes,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Never,Sometimes,Rarely,Sometimes,Never,Sometimes,Never,Sometimes,Never,Rarely,Often,Never,Rarely,Sometimes,Sometimes,Rarely,Never,Usually
+1009,Always,Sometimes,Sometimes,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Often,Sometimes,Rarely,Sometimes,Never,Often,Rarely,Never,Often,Never,Rarely,Sometimes,Sometimes,Never,Never,Often
+1010,Never,Never,Sometimes,Never,Never,Often,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Often,Never,Rarely,Often,Rarely,Sometimes,Never,Rarely
+1011,Always,Rarely,Sometimes,Often,Never,Often,Rarely,Never,Never,Rarely,Rarely,Often,Never,Never,Never,Rarely,Rarely,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Usually
+1012,Sometimes,Never,Never,Never,Rarely,Usually,Sometimes,Often,Never,Rarely,Rarely,Often,Sometimes,Often,Often,Rarely,Never,Never,Rarely,Often,Rarely,Never,Rarely,Rarely,Never,Never
+1013,Always,Sometimes,Often,Often,Never,Sometimes,Sometimes,Never,Sometimes,Often,Often,Sometimes,Never,Often,Often,Usually,Rarely,Often,Often,Never,Usually,Always,Rarely,Rarely,Often,Rarely
+1014,Always,Often,Never,Rarely,Sometimes,Always,Always,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Sometimes,Never,Always,Never,Never,Rarely,Rarely,Never,Never,Sometimes
+1015,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Always
+1016,Sometimes,Rarely,Rarely,Never,Never,Often,Rarely,Never,Never,Never,Never,Often,Never,Sometimes,Never,Always,Never,Never,Often,Never,Never,Rarely,Never,Never,Never,Usually
+1017,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Often,Sometimes,Never,Never,Sometimes
+1018,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Usually,Usually,Rarely,Never,Sometimes,Rarely,Usually,Never,Never,Rarely,Usually,Rarely,Sometimes,Sometimes,Rarely,Often,Often,Often,Rarely,Never,Usually
+1019,Rarely,Never,Rarely,Never,Never,Often,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Usually
+1020,Often,Never,Sometimes,Never,Often,Usually,Often,Never,Never,Never,Sometimes,Often,Rarely,Often,Sometimes,Sometimes,Rarely,Sometimes,Often,Never,Sometimes,Sometimes,Rarely,Never,Never,Often
+1021,Rarely,Rarely,Rarely,Never,Never,Often,Never,Never,Never,Rarely,Never,Rarely,Never,Rarely,Never,Usually,Never,Never,Usually,Never,Never,Rarely,Sometimes,Never,Never,Always
+1022,Usually,Rarely,Often,Rarely,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Often,Often,Never,Never,Never,Usually
+1023,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Often,Never,Rarely,Rarely,Often,Sometimes,Often,Rarely,Never,Never,Never,Often,Sometimes,Sometimes,Often,Rarely,Rarely,Never,Rarely
+1024,Always,Often,Often,Always,Rarely,Rarely,Never,Never,Never,Usually,Always,Always,Never,Usually,Sometimes,Never,Never,Usually,Usually,Usually,Usually,Always,Always,Always,Never,Always
+1025,Sometimes,Rarely,Often,Never,Never,Always,Often,Rarely,Never,Never,Never,Often,Rarely,Often,Sometimes,Rarely,Never,Never,Usually,Never,Rarely,Never,Never,Never,Never,Often
+1026,Never,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often,Rarely,Never,Usually,Never,Never,Never,Never,Never,Never,Always
+1027,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Often,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Never,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes
+1028,Rarely,Never,Sometimes,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Always
+1029,Rarely,Rarely,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Always
+1030,Often,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Usually
+1031,Always,Rarely,Usually,Rarely,Sometimes,Usually,Often,Sometimes,Rarely,Rarely,Usually,Usually,Rarely,Usually,Rarely,Usually,Rarely,Rarely,Sometimes,Rarely,Sometimes,Usually,Sometimes,Sometimes,Never,Usually
+1032,Sometimes,Rarely,Sometimes,Sometimes,Never,Sometimes,Sometimes,Never,Never,Often,Usually,Usually,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Sometimes,Never,Sometimes,Always,Usually,Usually,Never,Sometimes
+1033,Always,Rarely,Often,Sometimes,Never,Often,Sometimes,Never,Never,Often,Often,Usually,Never,Always,Often,Sometimes,Often,Often,Never,Never,Sometimes,Usually,Usually,Usually,Never,Always
+1034,Rarely,Never,Often,Never,Rarely,Usually,Usually,Never,Never,Rarely,Usually,Often,Never,Often,Always,Usually,Sometimes,Rarely,Rarely,Rarely,Often,Usually,Often,Rarely,Never,Sometimes
+1035,Sometimes,Sometimes,Sometimes,Sometimes,Never,Usually,Rarely,Rarely,Never,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Sometimes,Never,Rarely,Often,Never,Rarely,Often,Rarely,Usually,Never,Sometimes
+1036,Always,Never,Rarely,Rarely,Never,Never,Often,Sometimes,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually
+1037,Rarely,Rarely,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Never,Often,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Usually
+1038,Never,Never,Often,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Often
+1039,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Never,Sometimes,Never,Rarely,Never,Rarely,Rarely,Rarely,Often,Often,Rarely,Never,Usually,Never,Never,Rarely,Never,Never,Never,Rarely
+1040,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Usually,Never,Never,Often,Never,Never,Never,Never,Never,Never,Usually
+1041,Usually,Rarely,Rarely,Never,Usually,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually
+1042,Usually,Rarely,Sometimes,Never,Never,Often,Rarely,Never,Never,Sometimes,Often,Sometimes,Never,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Often,Sometimes,Never,Never,Often
+1043,Sometimes,Sometimes,Usually,Sometimes,Never,Rarely,Often,Sometimes,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Sometimes
+1044,Always,Rarely,Sometimes,Never,Never,Often,Usually,Rarely,Never,Rarely,Often,Often,Rarely,Usually,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Never,Sometimes
+1045,Sometimes,Sometimes,Often,Often,Sometimes,Often,Sometimes,Sometimes,Rarely,Often,Often,Sometimes,Never,Usually,Sometimes,Often,Sometimes,Always,Rarely,Sometimes,Always,Usually,Often,Never,Rarely,Sometimes
+1046,Never,Never,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Rarely,Never,Often,Never,Never,Never,Rarely,Never,Never,Sometimes
+1047,Usually,Never,Often,Usually,Usually,Usually,Sometimes,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Always,Often,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Never,Always
+1048,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never
+1049,Sometimes,Never,Often,Never,Sometimes,Often,Sometimes,Never,Never,Never,Rarely,Usually,Never,Sometimes,Rarely,Often,Rarely,Rarely,Sometimes,Never,Sometimes,Usually,Sometimes,Never,Never,Often
+1050,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually
+1051,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Sometimes,Never,Never,Rarely,Never,Rarely,Never,Often
+1052,Sometimes,Rarely,Often,Rarely,Sometimes,Usually,Rarely,Rarely,Rarely,Sometimes,Usually,Always,Never,Often,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Often,Rarely,Sometimes,Never,Always
+1053,Often,Never,Always,Often,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Often,Sometimes,Sometimes,Sometimes,Sometimes,Usually,Never,Sometimes,Often,Often,Often,Usually,Often,Often,Sometimes,Sometimes
+1054,Sometimes,Rarely,Rarely,Never,Rarely,Often,Sometimes,Never,Never,Sometimes,Rarely,Often,Always,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Always
+1055,Usually,Never,Rarely,Never,Never,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Always,Rarely,Never,Never,Never,Never,Rarely,Usually,Rarely,Sometimes,Never,Always
+1056,Always,Sometimes,Often,Usually,Rarely,Sometimes,Sometimes,Never,Never,Often,Rarely,Always,Never,Usually,Never,Sometimes,Rarely,Sometimes,Sometimes,Never,Rarely,Often,Sometimes,Rarely,Never,Usually
+1057,Often,Sometimes,Sometimes,Rarely,Never,Usually,Sometimes,Rarely,Rarely,Rarely,Never,Often,Never,Never,Rarely,Usually,Never,Often,Usually,Rarely,Often,Always,Usually,Never,Rarely,Rarely
+1058,Usually,Rarely,Often,Sometimes,Never,Sometimes,Never,Never,Never,Rarely,Usually,Sometimes,Sometimes,Usually,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Often,Sometimes,Often,Never,Sometimes
+1059,Sometimes,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Usually
+1060,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Always
+1061,Sometimes,Rarely,Usually,Sometimes,Often,Usually,Often,Rarely,Never,Rarely,Rarely,Usually,Rarely,Sometimes,Rarely,Usually,Sometimes,Rarely,Usually,Rarely,Sometimes,Sometimes,Often,Sometimes,Never,Always
+1062,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Always
+1063,Sometimes,Rarely,Sometimes,Never,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Often,Never,Sometimes,Never,Never,Never,Never,Never
+1064,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Always
+1065,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Sometimes,Never,Sometimes,Never,Rarely,Never,Never,Never
+1066,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Never,Often
+1067,Always,Usually,Often,Never,Sometimes,Usually,Always,Always,Never,Rarely,Usually,Often,Usually,Usually,Often,Usually,Never,Rarely,Often,Often,Rarely,Usually,Usually,Often,Never,Usually
+1068,Often,Rarely,Sometimes,Rarely,Never,Never,Never,Never,Never,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Often
+1069,Never,Never,Rarely,Never,Usually,Never,Never,Usually,Never,Never,Never,Never,Often,Never,Usually,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Never,Never,Never,Always
+1070,Rarely,Never,Never,Often,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Often,Rarely,Never,Never,Never,Usually
+1071,Rarely,Rarely,Rarely,Never,Never,Always,Never,Never,Never,Never,Never,Never,Never,Never,Often,Often,Often,Never,Often,Never,Never,Never,Never,Never,Never,Often
+1072,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Rarely,Never,Often,Never,Never,Rarely,Never,Often,Never,Usually
+1073,Usually,Never,Usually,Never,Never,Sometimes,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Never,Usually,Never,Rarely,Rarely,Never,Sometimes,Usually,Rarely,Rarely,Never,Usually
+1074,Always,Sometimes,Often,Often,Rarely,Usually,Rarely,Never,Never,Often,Sometimes,Always,Never,Often,Rarely,Rarely,Rarely,Rarely,Usually,Rarely,Usually,Usually,Sometimes,Rarely,Never,Always
+1075,Rarely,Rarely,Rarely,Never,Never,Usually,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Never,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Never,Never,Never,Sometimes
+1076,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Never,Rarely,Never,Never,Rarely,Often,Rarely,Never,Rarely,Never,Sometimes,Usually,Rarely,Rarely,Never,Usually
+1077,Usually,Sometimes,Often,Rarely,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Never,Rarely
+1078,Usually,Rarely,Sometimes,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Sometimes,Never,Never,Never,Never,Often,Never,Never,Never,Sometimes,Never,Never,Always
+1079,Often,Rarely,Often,Rarely,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Never,Never,Rarely,Never,Never,Always
+1080,Sometimes,Rarely,Sometimes,Rarely,Always,Rarely,Sometimes,Often,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Usually,Always,Rarely,Usually,Rarely,Rarely,Rarely,Never,Never
+1081,Sometimes,Rarely,Sometimes,Sometimes,Often,Usually,Rarely,Never,Never,Rarely,Never,Rarely,Never,Rarely,Usually,Rarely,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Usually
+1082,Sometimes,Never,Sometimes,Never,Rarely,Usually,Usually,Never,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Often,Sometimes,Never,Never,Often,Never,Sometimes,Never,Sometimes,Never,Never,Usually
+1083,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Rarely
+1084,Often,Never,Rarely,Never,Rarely,Often,Often,Never,Never,Never,Sometimes,Always,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Sometimes,Never,Never,Often
+1085,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Often,Never,Sometimes,Sometimes,Never,Never,Never,Usually
+1086,Rarely,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Often,Never,Rarely,Rarely,Never,Rarely,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Often
+1087,Always,Sometimes,Often,Usually,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Often,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Usually
+1088,Always,Sometimes,Often,Often,Rarely,Often,Rarely,Never,Never,Usually,Usually,Often,Rarely,Often,Rarely,Rarely,Rarely,Sometimes,Sometimes,Never,Usually,Rarely,Usually,Sometimes,Never,Usually
+1089,Usually,Rarely,Often,Rarely,Sometimes,Always,Rarely,Never,Never,Rarely,Sometimes,Often,Never,Often,Never,Usually,Often,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Usually
+1090,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Always
+1091,Usually,Rarely,Often,Sometimes,Sometimes,Often,Sometimes,Rarely,Never,Sometimes,Never,Often,Never,Often,Never,Usually,Never,Never,Often,Rarely,Often,Rarely,Sometimes,Never,Never,Often
+1092,Sometimes,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Often
+1093,Rarely,Never,Rarely,Never,Never,Usually,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Rarely,Never,Usually
+1094,Often,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes
+1095,Never,Never,Never,Rarely,Never,Often,Usually,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Rarely,Never,Often,Never,Never,Usually,Rarely,Never,Never,Often
+1096,Always,Rarely,Sometimes,Sometimes,Always,Always,Rarely,Never,Never,Rarely,Often,Often,Never,Always,Often,Usually,Never,Sometimes,Usually,Never,Sometimes,Always,Rarely,Never,Never,Rarely
+1097,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes
+1098,Sometimes,Rarely,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Sometimes
+1099,Rarely,Never,Often,Never,Usually,Sometimes,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Often,Never,Never,Usually,Never,Rarely,Never,Never,Never,Never,Always
+1100,Often,Sometimes,Rarely,Never,Never,Usually,Sometimes,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Usually,Never,Rarely,Usually,Never,Rarely,Never,Never,Never,Never,Usually
+1101,Never,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Always
+1102,Usually,Rarely,Usually,Sometimes,Never,Usually,Rarely,Never,Rarely,Usually,Rarely,Usually,Never,Usually,Never,Usually,Never,Often,Sometimes,Never,Always,Always,Sometimes,Rarely,Often,Usually
+1103,Sometimes,Sometimes,Never,Never,Never,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Never,Never,Always,Never,Never,Sometimes,Never,Never,Never,Never
+1104,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Never,Rarely,Often,Rarely,Sometimes,Often,Never,Sometimes,Rarely,Never,Never,Never,Usually
+1105,Rarely,Rarely,Sometimes,Sometimes,Never,Sometimes,Often,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Never,Always,Sometimes,Rarely,Usually,Never,Rarely,Always,Often,Rarely,Never,Sometimes
+1106,Never,Rarely,Rarely,Never,Sometimes,Often,Rarely,Rarely,Never,Never,Never,Often,Never,Never,Sometimes,Never,Never,Often,Often,Rarely,Rarely,Never,Never,Never,Never,Always
+1107,Sometimes,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Usually,Rarely,Never,Never,Usually,Never,Never,Rarely,Never,Never,Never,Usually
+1108,Rarely,Never,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Often,Never,Never,Never,Never,Usually,Never,Sometimes,Usually,Rarely,Never,Usually,Rarely,Often,Often,Rarely,Never,Never,Always
+1109,Usually,Often,Rarely,Never,Never,Sometimes,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Often,Never,Always
+1110,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Often
+1111,Sometimes,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Often,Never,Rarely,Usually,Never,Sometimes,Rarely,Often,Never,Never,Sometimes,Rarely,Never,Never,Always
+1112,Always,Always,Usually,Usually,Sometimes,Always,Always,Always,Never,Sometimes,Usually,Usually,Always,Always,Rarely,Rarely,Rarely,Usually,Sometimes,Usually,Often,Usually,Usually,Often,Never,Usually
+1113,Never,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Never,Never,Often,Often,Often,Usually,Usually,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes
+1114,Sometimes,Rarely,Often,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Usually,Never,Often,Sometimes,Never,Never,Never,Usually,Never,Sometimes,Usually,Sometimes,Sometimes,Never,Rarely
+1115,Always,Often,Often,Never,Rarely,Always,Rarely,Often,Never,Sometimes,Sometimes,Always,Sometimes,Always,Rarely,Usually,Sometimes,Never,Usually,Usually,Sometimes,Usually,Usually,Usually,Never,Never
+1116,Always,Rarely,Usually,Never,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Often,Sometimes,Never,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Often,Sometimes,Sometimes,Rarely,Never,Always
+1117,Always,Rarely,Rarely,Never,Never,Always,Usually,Never,Never,Rarely,Sometimes,Usually,Rarely,Often,Usually,Usually,Often,Often,Often,Often,Sometimes,Usually,Often,Sometimes,Never,Never
+1118,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Often,Rarely,Never,Sometimes,Rarely,Sometimes,Never,Never,Never,Sometimes,Sometimes,Rarely,Often,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes
+1119,Sometimes,Rarely,Sometimes,Never,Often,Usually,Rarely,Sometimes,Never,Never,Rarely,Often,Sometimes,Never,Sometimes,Rarely,Never,Never,Usually,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Usually
+1120,Sometimes,Rarely,Rarely,Never,Often,Sometimes,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Never,Sometimes
+1121,Never,Sometimes,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Usually
+1122,Rarely,Never,Usually,Never,Often,Often,Usually,Never,Never,Rarely,Never,Rarely,Never,Often,Usually,Usually,Rarely,Never,Often,Sometimes,Sometimes,Rarely,Often,Rarely,Never,Usually
+1123,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually
+1124,Sometimes,Rarely,Sometimes,Rarely,Never,Often,Rarely,Never,Never,Never,Sometimes,Often,Rarely,Never,Never,Never,Never,Never,Often,Never,Rarely,Never,Never,Rarely,Never,Usually
+1125,Always,Never,Always,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Always,Usually,Never,Always,Never,Never,Never,Always,Sometimes,Never,Usually,Sometimes,Never,Never,Never,Sometimes
+1126,Never,Never,Usually,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Usually
+1127,Rarely,Never,Often,Rarely,Always,Rarely,Sometimes,Often,Never,Never,Rarely,Often,Rarely,Never,Always,Never,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Never,Always
+1128,Often,Rarely,Often,Sometimes,Rarely,Sometimes,Rarely,Never,Never,Often,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Never,Sometimes
+1129,Often,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Often
+1130,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Usually,Never,Never,Usually,Rarely,Never,Rarely,Never,Never,Never,Sometimes
+1131,Usually,Sometimes,Sometimes,Rarely,Always,Always,Sometimes,Never,Never,Sometimes,Usually,Always,Never,Usually,Often,Often,Never,Often,Sometimes,Always,Often,Usually,Usually,Usually,Never,Usually
+1132,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Always
+1133,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Never,Never,Never,Usually,Sometimes,Sometimes,Usually,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Usually
+1134,Usually,Usually,Sometimes,Rarely,Always,Often,Usually,Often,Never,Often,Often,Always,Rarely,Usually,Usually,Usually,Never,Never,Usually,Never,Never,Usually,Usually,Usually,Never,Often
+1135,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Often,Never,Never,Often,Never,Rarely,Rarely,Never,Never,Never,Usually
+1136,Usually,Rarely,Sometimes,Never,Rarely,Usually,Never,Never,Never,Never,Sometimes,Often,Never,Rarely,Sometimes,Never,Sometimes,Rarely,Often,Never,Usually,Sometimes,Sometimes,Never,Never,Usually
+1137,Always,Sometimes,Sometimes,Rarely,Sometimes,Usually,Sometimes,Never,Rarely,Sometimes,Often,Often,Never,Sometimes,Rarely,Rarely,Usually,Rarely,Sometimes,Never,Rarely,Often,Sometimes,Sometimes,Rarely,Sometimes
+1138,Rarely,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Always,Never,Never,Never,Never,Never,Never,Always
+1139,Never,Sometimes,Sometimes,Sometimes,Sometimes,Often,Usually,Never,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Often,Sometimes,Never,Always
+1140,Sometimes,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Never,Usually
+1141,Rarely,Never,Often,Never,Never,Sometimes,Usually,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Often,Usually,Rarely,Sometimes,Usually,Never,Usually,Rarely,Rarely,Rarely,Rarely,Always
+1142,Always,Always,Always,Rarely,Never,Always,Always,Usually,Always,Always,Always,Always,Rarely,Rarely,Sometimes,Always,Usually,Usually,Always,Usually,Usually,Always,Always,Always,Always,Often
+1143,Rarely,Never,Sometimes,Sometimes,Rarely,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,Usually
+1144,Usually,Sometimes,Sometimes,Always,Usually,Always,Usually,Never,Never,Rarely,Rarely,Often,Rarely,Never,Sometimes,Often,Rarely,Never,Often,Often,Rarely,Rarely,Rarely,Sometimes,Never,Often
+1145,Never,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,Never,Often,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Usually
+1146,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Sometimes,Never,Never,Sometimes
+1147,Sometimes,Sometimes,Sometimes,Sometimes,Always,Sometimes,Usually,Always,Always,Usually,Always,Sometimes,Always,Always,Sometimes,Sometimes,Sometimes,Usually,Usually,Always,Usually,Sometimes,Usually,Often,Usually,Usually
+1148,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Never,Usually,Usually,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often
+1149,Always,Usually,Usually,Never,Never,Always,Always,Always,Never,Rarely,Always,Sometimes,Never,Usually,Never,Never,Never,Never,Never,Never,Always,Never,Usually,Usually,Rarely,Usually
+1150,Sometimes,Never,Sometimes,Rarely,Never,Usually,Sometimes,Often,Rarely,Never,Often,Often,Often,Sometimes,Never,Never,Never,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Sometimes,Always
+1151,Often,Rarely,Sometimes,Never,Sometimes,Usually,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Often,Rarely,Often,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Often
+1152,Often,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Always
+1153,Always,Rarely,Sometimes,Sometimes,Never,Always,Always,Often,Never,Sometimes,Sometimes,Always,Sometimes,Rarely,Never,Sometimes,Sometimes,Never,Often,Sometimes,Never,Sometimes,Rarely,Never,Never,Often
+1154,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Sometimes,Never,Often,Never,Never,Never,Rarely,Rarely,Never,Always
+1155,Often,Rarely,Sometimes,Rarely,Usually,Usually,Usually,Never,Never,Never,Sometimes,Often,Rarely,Sometimes,Rarely,Often,Often,Sometimes,Usually,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Never,Always
+1156,Always,Never,Often,Never,Sometimes,Sometimes,Always,Never,Never,Often,Always,Often,Never,Always,Sometimes,Always,Never,Often,Usually,Never,Always,Never,Always,Rarely,Never,Never
+1157,Rarely,Never,Never,Never,Never,Often,Often,Never,Never,Never,Never,Rarely,Rarely,Never,Usually,Usually,Never,Never,Often,Never,Never,Never,Never,Sometimes,Never,Often
+1158,Sometimes,Sometimes,Rarely,Never,Sometimes,Sometimes,Never,Always,Never,Rarely,Usually,Always,Sometimes,Often,Always,Rarely,Never,Never,Sometimes,Always,Sometimes,Rarely,Rarely,Usually,Never,Always
+1159,Rarely,Usually,Rarely,Never,Never,Rarely,Never,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Sometimes,Never,Sometimes
+1160,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Usually
+1161,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Never,Never,Rarely,Often,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes
+1162,Often,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Sometimes,Usually,Never,Always
+1163,Sometimes,Rarely,Rarely,Rarely,Sometimes,Usually,Usually,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Usually,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Always
+1164,Always,Sometimes,Always,Never,Rarely,Always,Often,Never,Never,Sometimes,Often,Usually,Never,Usually,Rarely,Never,Usually,Usually,Often,Never,Usually,Rarely,Always,Often,Rarely,Never
+1165,Never,Never,Rarely,Never,Never,Often,Rarely,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Often,Sometimes,Rarely,Rarely,Rarely,Never,Never,Usually
+1166,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Usually,Never,Never,Never,Never,Never,Never,Often
+1167,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Never,Sometimes,Rarely,Often,Never,Never,Never,Never,Never,Never,Sometimes,Never,Sometimes,Never,Never,Rarely,Never,Always
+1168,Often,Never,Rarely,Never,Never,Usually,Rarely,Never,Never,Rarely,Rarely,Often,Never,Usually,Sometimes,Rarely,Never,Never,Always,Never,Never,Rarely,Never,Never,Never,Sometimes
+1169,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Often,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Sometimes,Sometimes
+1170,Usually,Rarely,Never,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Never,Rarely,Never,Always
+1171,Sometimes,Never,Usually,Sometimes,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Sometimes,Rarely,Never,Usually
+1172,Usually,Sometimes,Always,Usually,Often,Sometimes,Sometimes,Never,Never,Sometimes,Usually,Sometimes,Never,Usually,Rarely,Sometimes,Rarely,Usually,Sometimes,Rarely,Usually,Usually,Sometimes,Often,Never,Often
+1173,Always,Always,Often,Rarely,Rarely,Sometimes,Always,Always,Never,Often,Always,Always,Usually,Usually,Never,Always,Always,Usually,Always,Always,Usually,Often,Always,Often,Never,Never
+1174,Never,Never,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Usually
+1175,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Always
+1176,Sometimes,Rarely,Sometimes,Rarely,Never,Usually,Sometimes,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Never,Sometimes,Rarely,Never,Often,Never,Rarely,Never,Rarely,Rarely,Never,Always
+2000,Rarely,Never,Never,Usually,Usually,Never,Never,Rarely,Often,Sometimes,Never,Usually,Never,Usually,Never,Never,Always,Never,Sometimes,Rarely,Usually,Never,Never,Rarely,Never,Never
+2001,Never,Never,Never,Sometimes,Often,Never,Never,Never,Often,Never,Never,Often,Rarely,Sometimes,Never,Never,Often,Never,Never,Never,Never,Never,Never,Always,Never,Never
+2002,Often,Sometimes,Rarely,Rarely,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Often,Sometimes,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Never,Sometimes,Once a month or less,Never
+2003,Always,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Never,Rarely,Sometimes,Often,Rarely,Often,Rarely,Rarely,Rarely,Usually,Rarely,Never,Usually,Rarely,Never,Never,Never,Sometimes,Never,Never
+2004,Sometimes,Never,Sometimes,Always,Rarely,Rarely,Never,Never,Sometimes,Rarely,Rarely,Rarely,Often,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Often,Never,Never
+2005,Sometimes,Never,Sometimes,Often,Usually,Sometimes,Never,Often,Often,Often,Rarely,Often,Often,Often,Rarely,Often,Often,Often,Often,Usually,Sometimes,Never,Never,Usually,Never,Never
+2006,Sometimes,Sometimes,Rarely,Always,Rarely,Usually,Rarely,Sometimes,Sometimes,Usually,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Usually,Rarely,Sometimes,Sometimes,Rarely,Usually,Rarely,Sometimes,Once a month or less,Once a month or less
+2007,Always,Often,Rarely,Usually,Always,Rarely,Never,Often,Always,Always,Never,Always,Sometimes,Sometimes,Always,Usually,Rarely,Rarely,Usually,Always,Always,Rarely,Never,Always,Once a month or less,Never
+2008,Sometimes,Rarely,Sometimes,Usually,Sometimes,Often,Never,Rarely,Rarely,Never,Often,Usually,Sometimes,Usually,Never,Never,Usually,Usually,Usually,Usually,Often,Rarely,Never,Usually,Never,Never
+2009,Sometimes,Rarely,Never,Sometimes,Often,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Often,Never,Sometimes,Often,Sometimes,Sometimes,Sometimes,Never,Never,Never,Often,Never,Never
+2010,Sometimes,Sometimes,Rarely,Sometimes,Usually,Rarely,Never,Rarely,Often,Usually,Never,Sometimes,Rarely,Usually,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Never,Often,Once a month or less,Never
+2011,Usually,Often,Rarely,Usually,Usually,Never,Rarely,Often,Rarely,Never,Never,Often,Never,Usually,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Usually,Rarely,Rarely,Never,Rarely,Once a month or less,Never
+2012,Always,Always,Rarely,Usually,Sometimes,Never,Never,Often,Usually,Always,Never,Usually,Often,Sometimes,Often,Always,Sometimes,Never,Always,Always,Always,Often,Never,Often,2-3 times a month,Never
+2013,Often,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Often,Never,Rarely,Never,Sometimes,Never,Rarely,Usually,Never,Rarely,Sometimes,Never,Rarely,Never,Always,Never,Never
+2014,Sometimes,Rarely,Sometimes,Usually,Usually,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Usually,Never,Rarely,Usually,Rarely,Rarely,Often,Sometimes,Never,Never,Always,Once a month or less,Never
+2015,Never,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Sometimes,Never,Sometimes,Never,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Never,Always,Never,Once a month or less
+2016,Often,Sometimes,Never,Usually,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Rarely,Often,Never,Sometimes,Often,Sometimes,Usually,Often,Sometimes,Sometimes,Sometimes,Usually,2-3 times a month,Once a month or less
+2017,Rarely,Never,Rarely,Often,Rarely,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Usually,Rarely,Rarely,Rarely,Rarely,Never,Never,Usually,Never,Never
+2018,Rarely,Rarely,Never,Usually,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Never,Never
+2019,Sometimes,Rarely,Rarely,Usually,Sometimes,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Often,Once a month or less,Never
+2020,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Always,Never,Never
+2021,Sometimes,Sometimes,Never,Always,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Always,Never,Rarely,Often,Never,Sometimes,Never,Rarely,Never,Never,Often,Never,Never
+2022,Often,Never,Never,Sometimes,Often,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Never,Never,Usually,Rarely,Sometimes,Usually,Never,Never,Never,Often,Never,Never
+2023,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Often,Once a month or less,Never
+2024,Rarely,Never,Never,Sometimes,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Never,Often,Never,Never
+2025,Rarely,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Never,Rarely,Never,Sometimes,Sometimes,Never,Usually,Never,Never
+2026,Sometimes,Never,Rarely,Never,Usually,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Always,Never,Never,Usually,Never,Never,Always,Never,Rarely,Never,Usually,Never,Never
+2027,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+2028,Sometimes,Never,Never,Often,Sometimes,Never,Never,Never,Never,Never,Never,Rarely,Never,Often,Never,Rarely,Often,Often,Sometimes,Sometimes,Never,Never,Never,Often,Never,Never
+2029,Rarely,Never,Rarely,Often,Rarely,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Rarely,Often,Rarely,Never,Often,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Often,Never,Never
+2030,Sometimes,Never,Rarely,Sometimes,Usually,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never
+2031,Often,Rarely,Rarely,Usually,Often,Rarely,Never,Sometimes,Never,Sometimes,Never,Rarely,Never,Usually,Sometimes,Often,Usually,Sometimes,Sometimes,Usually,Rarely,Never,Never,Often,Never,2-6 times a week
+2032,Rarely,Never,Rarely,Usually,Sometimes,Never,Never,Never,Rarely,Often,Never,Sometimes,Never,Rarely,Never,Always,Often,Sometimes,Sometimes,Sometimes,Never,Rarely,Never,Often,Never,Never
+2033,Sometimes,Rarely,Rarely,Usually,Sometimes,Never,Never,Never,Rarely,Sometimes,Never,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Never,Often,Never,Never
+2034,Never,Never,Sometimes,Often,Sometimes,Never,Never,Never,Sometimes,Often,Never,Often,Rarely,Sometimes,Never,Never,Often,Never,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Never,Never
+2035,Often,Sometimes,Usually,Sometimes,Rarely,Rarely,Never,Sometimes,Often,Sometimes,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Rarely,Sometimes,Rarely,Never,Often,Never,Never
+2036,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Rarely,Rarely,Never,Never,Always,Never,Never
+2037,Rarely,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Rarely,Often,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Never,Always,Never,Never
+2038,Sometimes,Never,Sometimes,Often,Often,Never,Never,Sometimes,Sometimes,Sometimes,Never,Sometimes,Never,Usually,Never,Never,Usually,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Never,Never
+2039,Often,Rarely,Sometimes,Usually,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Rarely,Usually,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Never,Never
+2040,Sometimes,Sometimes,Never,Often,Usually,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Often,Usually,Rarely,Rarely,Sometimes,Never,Sometimes,Never,Usually,Never,Never,Sometimes,Never,Never
+2041,Never,Never,Usually,Never,Never,Always,Never,Never,Never,Never,Usually,Never,Usually,Never,Never,Never,Usually,Never,Never,Never,Never,Rarely,Never,Always,Never,Never
+2042,Often,Rarely,Never,Rarely,Usually,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Always,Never,Never,Sometimes,Sometimes,Never,Always,Never,Never,Never,Usually,Once a month or less,Never
+2043,Usually,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Often,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Usually,Often,Sometimes,Usually,Often,Sometimes,Usually,Never,Sometimes,Never,Never
+2044,Always,Always,Never,Usually,Often,Never,Never,Often,Often,Often,Never,Sometimes,Rarely,Often,Rarely,Usually,Sometimes,Never,Always,Often,Sometimes,Rarely,Never,Always,2-3 times a month,Never
+2045,Often,Rarely,Never,Usually,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Never,Usually,Never,Never
+2046,Sometimes,Rarely,Sometimes,Usually,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Always,Never,Rarely,Rarely,Never,Never,Never,Usually,Never,Never
+2047,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+2048,Rarely,Rarely,Rarely,Usually,Sometimes,Never,Never,Never,Often,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+2049,Always,Often,Never,Sometimes,Rarely,Never,Never,Rarely,Always,Often,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Often,Sometimes,Rarely,Never,Never,Often,Never,Never
+2050,Rarely,Never,Rarely,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Sometimes,Never,Often,Rarely,Never,Rarely,Sometimes,Never,Never,Usually,Never,Never
+2051,Sometimes,Never,Sometimes,Often,Sometimes,Never,Never,Never,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Never,Usually,Never,Never
+2052,Often,Never,Rarely,Sometimes,Often,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Often,Never,Never
+2053,Usually,Sometimes,Sometimes,Often,Often,Never,Never,Usually,Rarely,Often,Never,Often,Rarely,Often,Rarely,Usually,Rarely,Never,Usually,Usually,Rarely,Rarely,Never,Usually,Once a month or less,Never
+2054,Rarely,Never,Never,Always,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Often,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,Never
+2055,Sometimes,Never,Often,Always,Usually,Often,Rarely,Usually,Often,Usually,Never,Usually,Usually,Always,Usually,Often,Always,Often,Sometimes,Always,Usually,Often,Never,Usually,Never,Once a month or less
+2056,Often,Rarely,Sometimes,Usually,Usually,Rarely,Never,Rarely,Often,Often,Rarely,Usually,Sometimes,Usually,Rarely,Sometimes,Often,Rarely,Often,Usually,Usually,Rarely,Never,Usually,Never,Never
+2057,Rarely,Never,Sometimes,Always,Often,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Usually,Never,Never,Often,Rarely,Never,Never,Never,Never,Never,Always,Never,Never
+2058,Often,Often,Rarely,Usually,Often,Sometimes,Never,Usually,Always,Always,Never,Always,Never,Sometimes,Rarely,Sometimes,Sometimes,Often,Usually,Always,Usually,Sometimes,Never,Usually,2-3 times a month,Never
+2059,Always,Never,Never,Usually,Sometimes,Never,Never,Sometimes,Always,Always,Never,Usually,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Usually,Usually,Usually,Sometimes,Never,Usually,Never,Never
+2060,Sometimes,Rarely,Rarely,Sometimes,Rarely,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Always,Never,Never
+2061,Rarely,Rarely,Rarely,Usually,Often,Never,Never,Never,Rarely,Usually,Never,Rarely,Never,Rarely,Never,Never,Rarely,Never,Rarely,Sometimes,Never,Never,Never,Never,Once a day or more,Once a day or more
+2062,Sometimes,Rarely,Never,Always,Always,Never,Never,Always,Always,Always,Never,Always,Never,Always,Never,Usually,Usually,Never,Usually,Always,Usually,Usually,Never,Usually,Never,Never
+2063,Often,Often,Sometimes,Sometimes,Never,Never,Never,Never,Often,Never,Never,Often,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Never,Usually,Never,Always,2-3 times a month,Never
+2064,Never,Never,Never,Usually,Usually,Never,Never,Never,Never,Usually,Never,Never,Never,Often,Rarely,Never,Usually,Never,Never,Often,Rarely,Never,Never,Usually,Never,Never
+2065,Sometimes,Never,Never,Often,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Often,Sometimes,Often,Never,Often,Never,Never
+2066,Sometimes,Never,Often,Sometimes,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Usually,Never,Rarely,Never,Often,Never,Rarely,Rarely,Never,Never,Never,Always,Never,Never
+2067,Often,Always,Sometimes,Usually,Usually,Never,Never,Never,Often,Always,Never,Usually,Never,Never,Rarely,Sometimes,Rarely,Often,Often,Often,Sometimes,Sometimes,Never,Often,Never,Never
+2068,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Always,Never,Never
+2069,Sometimes,Often,Sometimes,Usually,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Rarely,Usually,Sometimes,Never,Rarely,Sometimes,Often,Sometimes,Usually,Rarely,Rarely,Never,Often,Once a month or less,Never
+2070,Often,Sometimes,Rarely,Usually,Often,Rarely,Never,Sometimes,Sometimes,Usually,Rarely,Usually,Never,Often,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Usually,Sometimes,Never,Never,Usually,Once a month or less,Never
+2071,Sometimes,Never,Never,Usually,Rarely,Never,Never,Rarely,Rarely,Often,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Often,Never,Rarely,Rarely,Often,Often,Never,Rarely,Never,Never
+2072,Never,Never,Never,Sometimes,Often,Never,Never,Rarely,Never,Never,Never,Never,Never,Usually,Rarely,Never,Usually,Never,Rarely,Rarely,Often,Never,Never,Sometimes,Never,Never
+2073,Sometimes,Sometimes,Rarely,Always,Sometimes,Never,Sometimes,Sometimes,Never,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Rarely,Sometimes,Sometimes,Never,2-3 times a month,2-3 times a month
+2074,Sometimes,Rarely,Never,Sometimes,Sometimes,Never,Never,Sometimes,Often,Often,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Sometimes,Never,Never,Always,Never,Never
+2075,Often,Rarely,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Never,Never,Never,Often,Never,Never
+2076,Often,Often,Sometimes,Usually,Usually,Never,Never,Sometimes,Often,Rarely,Never,Rarely,Rarely,Often,Rarely,Rarely,Sometimes,Rarely,Often,Sometimes,Sometimes,Never,Never,Usually,Once a month or less,Never
+2077,Often,Rarely,Never,Always,Usually,Never,Never,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Often,Rarely,Sometimes,Usually,Never,Often,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,Never
+2078,Never,Never,Never,Often,Rarely,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Usually,Rarely,Never,Never,Rarely,Never,Rarely,Always,Never,Never
+2079,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Never,Sometimes,Usually,Rarely,Rarely,Sometimes,Sometimes,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Once a month or less,Never
+2080,Sometimes,Rarely,Rarely,Usually,Usually,Rarely,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Often,Rarely,Never,Always,Never,Never
+2081,Sometimes,Rarely,Never,Sometimes,Sometimes,Sometimes,Never,Sometimes,Sometimes,Usually,Often,Always,Never,Often,Never,Often,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Never,Never
+2082,Sometimes,Rarely,Sometimes,Sometimes,Always,Often,Never,Sometimes,Usually,Often,Never,Often,Sometimes,Rarely,Sometimes,Rarely,Often,Rarely,Rarely,Sometimes,Usually,Rarely,Never,Rarely,Never,Never
+2083,Often,Rarely,Never,Always,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Often,Never,Often,Sometimes,Never,Never,Never,Usually,Never,Never
+2084,Rarely,Never,Never,Rarely,Usually,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never,Often,Never,Never,Never,Never,Never,Never,Always,Never,Never
+2085,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Never,Often,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never
+2086,Rarely,Rarely,Never,Often,Always,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Often,Never,Rarely,Never,Never,Often,Never,Rarely,Never,Never,Once a month or less,Never
+2087,Sometimes,Never,Usually,Often,Usually,Never,Never,Rarely,Often,Often,Never,Rarely,Never,Usually,Never,Sometimes,Usually,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Never,Never
+2088,Sometimes,Never,Rarely,Usually,Sometimes,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Usually,Rarely,Never,Usually,Never,Never,Rarely,Rarely,Usually,Never,Usually,Never,Never
+2089,Often,Never,Never,Often,Often,Never,Never,Never,Sometimes,Usually,Never,Rarely,Never,Rarely,Rarely,Often,Usually,Never,Often,Often,Rarely,Never,Never,Rarely,Never,Never
+2090,Always,Always,Never,Always,Rarely,Never,Never,Sometimes,Sometimes,Never,Never,Sometimes,Never,Rarely,Never,Sometimes,Sometimes,Never,Usually,Rarely,Rarely,Sometimes,Never,Usually,Once a week,Never
+2091,Rarely,Rarely,Rarely,Often,Often,Never,Never,Sometimes,Often,Sometimes,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Often,Sometimes,Never,Usually,Never,Never
+2092,Sometimes,Sometimes,Rarely,Usually,Rarely,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Rarely,Never,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Once a month or less,Never
+2093,Sometimes,Often,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Usually,Sometimes,Never,Sometimes,Never,Rarely,Never,Sometimes,Sometimes,Never,Rarely,Sometimes,Sometimes,Never,Never,Usually,Once a month or less,Never
+2094,Always,Always,Often,Usually,Usually,Sometimes,Rarely,Often,Usually,Usually,Rarely,Sometimes,Always,Usually,Sometimes,Sometimes,Usually,Rarely,Sometimes,Often,Usually,Usually,Sometimes,Usually,Never,Never
+2095,Rarely,Sometimes,Usually,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Never,Sometimes,Often,Rarely,Rarely,Never,Often,Sometimes,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Once a month or less,Never
+2096,Usually,Never,Never,Usually,Usually,Rarely,Never,Rarely,Usually,Usually,Never,Usually,Rarely,Usually,Never,Always,Usually,Never,Always,Usually,Sometimes,Never,Never,Sometimes,Never,Never
+2097,Rarely,Never,Rarely,Never,Often,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Often,Never,Never,Rarely,Never,Never,Never,Usually,Never,Never
+2098,Usually,Sometimes,Rarely,Often,Often,Rarely,Never,Often,Often,Rarely,Rarely,Usually,Often,Often,Often,Usually,Sometimes,Rarely,Usually,Sometimes,Sometimes,Rarely,Never,Sometimes,Once a month or less,Never
+2099,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Never,Rarely,Rarely,Rarely,Rarely,Often,Often,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Sometimes,Never,Often,Never,Never
+2100,Sometimes,Often,Never,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Often,Never,Never,Never,Rarely,Never,Never,Always,Once a month or less,Never
+2101,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+2102,Sometimes,Never,Never,Often,Often,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Never,Often,Never,Sometimes,Rarely,Rarely,Rarely,Never,Sometimes,Never,Never
+2103,Often,Rarely,Sometimes,Sometimes,Always,Never,Rarely,Sometimes,Always,Always,Never,Usually,Never,Always,Rarely,Usually,Usually,Rarely,Always,Always,Usually,Rarely,Rarely,Rarely,Never,Never
+2104,Often,Sometimes,Sometimes,Sometimes,Sometimes,Never,Never,Sometimes,Sometimes,Never,Never,Rarely,Never,Sometimes,Never,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Never,Never,Sometimes,Once a month or less,Never
+2105,Sometimes,Never,Never,Sometimes,Often,Never,Never,Never,Never,Never,Never,Never,Often,Often,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+2106,Always,Usually,Rarely,Rarely,Usually,Rarely,Never,Usually,Usually,Rarely,Never,Often,Never,Often,Sometimes,Always,Often,Sometimes,Always,Usually,Usually,Never,Never,Always,2-3 times a month,Never
+2107,Rarely,Never,Rarely,Rarely,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Never,Never,Always,Never,Never
+2108,Sometimes,Sometimes,Never,Sometimes,Usually,Rarely,Never,Sometimes,Sometimes,Often,Never,Often,Sometimes,Usually,Rarely,Rarely,Usually,Rarely,Sometimes,Often,Sometimes,Often,Never,Rarely,2-3 times a month,Never
+2109,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Never,Always,Never,Never
+2110,Rarely,Never,Never,Always,Often,Rarely,Never,Rarely,Often,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Often,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Never,Never,Never
+2111,Rarely,Rarely,Sometimes,Never,Sometimes,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Never,Usually,Never,Never
+2112,Rarely,Never,Never,Sometimes,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Often,Never,Never,Often,Never,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Never,Never
+2113,Never,Usually,Never,Sometimes,Often,Never,Never,Sometimes,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never
+2114,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Often,Never,Never,Sometimes,Never,Never,Never,Always,Never,Never
+2115,Always,Rarely,Sometimes,Rarely,Always,Never,Never,Usually,Always,Usually,Never,Often,Rarely,Sometimes,Often,Often,Often,Rarely,Usually,Always,Sometimes,Often,Never,Always,Never,Never
+2116,Never,Never,Often,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Often,Never,Never,Never,Rarely,Sometimes,Never,Sometimes,Never,Never
+2117,Sometimes,Never,Rarely,Sometimes,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Never,Sometimes,Never,Never
+2118,Sometimes,Rarely,Never,Rarely,Usually,Never,Never,Often,Often,Usually,Never,Rarely,Never,Rarely,Rarely,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Usually,Never,Once a month or less
+2119,Often,Rarely,Often,Usually,Often,Rarely,Never,Sometimes,Rarely,Rarely,Never,Often,Rarely,Often,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Usually,Never,Never
+2120,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Usually,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Often,Never,Never
+2121,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Usually,Never,Rarely,Sometimes,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Sometimes,Never,Never
+2122,Usually,Rarely,Rarely,Rarely,Usually,Usually,Rarely,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Often,Rarely,Sometimes,Usually,Sometimes,Often,Sometimes,Rarely,Usually,Sometimes,Usually,Never,Never
+2123,Usually,Never,Often,Never,Always,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,2-3 times a month
+2124,Sometimes,Rarely,Rarely,Usually,Usually,Never,Never,Never,Sometimes,Usually,Never,Usually,Often,Usually,Never,Rarely,Usually,Never,Usually,Often,Rarely,Often,Rarely,Sometimes,Never,Never
+2125,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Always,Never,Never
+2126,Sometimes,Rarely,Never,Usually,Sometimes,Never,Rarely,Rarely,Rarely,Usually,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Usually,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Often,Never,Never
+2127,Rarely,Never,Sometimes,Usually,Rarely,Never,Never,Rarely,Rarely,Often,Rarely,Rarely,Often,Never,Rarely,Never,Usually,Often,Sometimes,Never,Sometimes,Often,Never,Sometimes,Never,Never
+2128,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Never,Rarely,Rarely,Often,Never,Rarely,Rarely,Never,Never,Never,Often,Never,Never,Sometimes,Rarely,Never,Never,Always,Never,Never
+2129,Never,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Always,Never,Never
+2130,Always,Often,Rarely,Usually,Often,Never,Never,Sometimes,Often,Often,Never,Sometimes,Rarely,Usually,Rarely,Usually,Sometimes,Never,Usually,Usually,Rarely,Sometimes,Never,Usually,Once a month or less,Never
+2131,Often,Never,Rarely,Sometimes,Often,Never,Never,Never,Rarely,Often,Never,Never,Never,Sometimes,Sometimes,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Never,Never,Often,Never,Never
+2132,Often,Sometimes,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Often,2-3 times a month,Never
+2133,Sometimes,Rarely,Rarely,Often,Sometimes,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Usually,Never,Never,Often,Rarely,Never,Rarely,Never,Rarely,Never,Always,Never,Never
+2134,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Always,Never,Never
+2135,Often,Sometimes,Rarely,Usually,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Usually,Rarely,Sometimes,Often,Rarely,Often,Often,Often,Sometimes,Never,Usually,2-3 times a month,Never
+2136,Never,Never,Rarely,Usually,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+2137,Never,Never,Never,Sometimes,Often,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Usually,Never,Never
+2138,Usually,Sometimes,Never,Sometimes,Often,Often,Rarely,Often,Often,Usually,Sometimes,Sometimes,Never,Sometimes,Sometimes,Often,Often,Usually,Usually,Usually,Always,Often,Sometimes,Always,Never,Once a month or less
+2139,Always,Rarely,Never,Rarely,Sometimes,Never,Never,Rarely,Often,Never,Never,Rarely,Usually,Often,Never,Sometimes,Sometimes,Never,Often,Never,Rarely,Never,Never,Usually,Never,Never
+2140,Rarely,Rarely,Never,Always,Rarely,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Usually,Never,Never
+3000,Always,Usually,Often,Sometimes,Rarely,Usually,Usually,Sometimes,Never,Usually,Always,Always,Often,Always,Usually,Usually,Never,Usually,Sometimes,Often,Always,Always,Always,Always,Never,Always
+3001,Usually,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually
+3002,Often,Rarely,Often,Often,Sometimes,Often,Rarely,Never,Often,Usually,Usually,Usually,Never,Usually,Rarely,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Rarely,Often,Often
+3003,Sometimes,Never,Sometimes,Rarely,Never,Often,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Usually,Usually,Rarely,Never,Usually,Never,Rarely,Usually,Rarely,Rarely,Never,Usually
+3004,Rarely,Rarely,Rarely,Never,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Always,Never,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Rarely
+3005,Sometimes,Sometimes,Often,Sometimes,Never,Usually,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Sometimes,Never,Usually
+3006,Rarely,Usually,Sometimes,Never,Never,Often,Never,Never,Never,Never,Rarely,Rarely,Never,Rarely,Never,Never,Rarely,Never,Often,Never,Never,Never,Sometimes,Rarely,Never,Rarely
+3007,Often,Rarely,Rarely,Rarely,Never,Usually,Sometimes,Never,Never,Rarely,Sometimes,Usually,Never,Rarely,Never,Rarely,Rarely,Rarely,Usually,Never,Rarely,Rarely,Sometimes,Rarely,Never,Often
+3008,Usually,Sometimes,Often,Rarely,Never,Often,Rarely,Never,Never,Sometimes,Sometimes,Often,Never,Sometimes,Usually,Rarely,Never,Sometimes,Often,Often,Rarely,Sometimes,Often,Never,Never,Always
+3009,Always,Usually,Always,Sometimes,Never,Always,Rarely,Sometimes,Never,Sometimes,Often,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Sometimes,Often,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes
+3010,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Always
+3011,Sometimes,Never,Sometimes,Rarely,Usually,Usually,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Rarely,Never,Sometimes,Rarely,Rarely,Usually,Never,Sometimes,Rarely,Sometimes,Never,Never,Usually
+3012,Always,Rarely,Often,Often,Rarely,Always,Rarely,Never,Never,Often,Often,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,Often,Rarely,Sometimes,Never,Never,Usually
+3013,Never,Rarely,Rarely,Never,Never,Usually,Rarely,Never,Never,Never,Never,Often,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Rarely,Rarely,Never,Never,Sometimes,Never,Usually
+3014,Always,Usually,Always,Always,Usually,Always,Often,Never,Sometimes,Usually,Always,Always,Never,Often,Sometimes,Sometimes,Usually,Always,Sometimes,Sometimes,Usually,Always,Always,Usually,Usually,Usually
+3015,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Often,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Often,Never,Never,Never,Rarely,Rarely,Never,Usually
+3016,Often,Never,Usually,Usually,Rarely,Often,Sometimes,Never,Never,Usually,Usually,Rarely,Never,Rarely,Never,Never,Rarely,Often,Rarely,Sometimes,Always,Sometimes,Rarely,Never,Never,Usually
+3017,Sometimes,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Rarely,Never,Never,Often,Rarely,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Usually
+3018,Usually,Never,Never,Never,Never,Usually,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Never,Usually,Often,Never,Often,Never,Never,Rarely,Never,Never,Never,Sometimes
+3019,Always,Sometimes,Rarely,Sometimes,Never,Always,Usually,Rarely,Never,Rarely,Often,Usually,Never,Sometimes,Never,Rarely,Rarely,Never,Always,Rarely,Sometimes,Always,Sometimes,Rarely,Rarely,Always
+3020,Always,Sometimes,Sometimes,Never,Sometimes,Never,Always,Usually,Never,Sometimes,Often,Always,Always,Often,Sometimes,Usually,Rarely,Rarely,Usually,Often,Sometimes,Usually,Often,Sometimes,Never,Always
+3021,Rarely,Rarely,Often,Often,Never,Sometimes,Never,Never,Never,Often,Rarely,Often,Never,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Often,Sometimes,Sometimes,Rarely,Never,Often
+3022,Always,Sometimes,Usually,Usually,Rarely,Always,Sometimes,Sometimes,Never,Often,Often,Often,Rarely,Usually,Rarely,Rarely,Usually,Usually,Often,Always,Always,Always,Often,Sometimes,Never,Never
+3023,Always,Usually,Usually,Always,Sometimes,Usually,Sometimes,Sometimes,Sometimes,Usually,Usually,Usually,Sometimes,Always,Sometimes,Sometimes,Often,Usually,Sometimes,Sometimes,Usually,Usually,Often,Sometimes,Sometimes,Always
+3024,Rarely,Sometimes,Often,Rarely,Rarely,Always,Rarely,Rarely,Never,Never,Rarely,Often,Rarely,Rarely,Often,Rarely,Sometimes,Never,Usually,Rarely,Often,Often,Usually,Rarely,Never,Often
+3025,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Usually,Rarely,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Usually,Sometimes,Rarely,Rarely,Often,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Sometimes
+3026,Always,Rarely,Often,Rarely,Sometimes,Often,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Usually,Sometimes,Sometimes,Sometimes,Rarely,Often,Never,Often,Sometimes,Sometimes,Rarely,Never,Sometimes
+3027,Often,Sometimes,Sometimes,Sometimes,Sometimes,Usually,Sometimes,Sometimes,Sometimes,Usually,Usually,Always,Sometimes,Usually,Sometimes,Often,Often,Often,Sometimes,Sometimes,Often,Often,Usually,Sometimes,Sometimes,Often
+3028,Usually,Sometimes,Sometimes,Rarely,Usually,Usually,Usually,Rarely,Never,Often,Often,Often,Rarely,Sometimes,Always,Sometimes,Sometimes,Rarely,Often,Often,Often,Often,Rarely,Usually,Rarely,Often
+3029,Sometimes,Never,Rarely,Never,Never,Always,Rarely,Rarely,Never,Never,Never,Often,Rarely,Rarely,Never,Rarely,Never,Never,Usually,Never,Never,Rarely,Rarely,Rarely,Never,Usually
+3030,Always,Never,Usually,Sometimes,Never,Always,Never,Never,Never,Usually,Usually,Usually,Rarely,Usually,Never,Never,Sometimes,Often,Rarely,Never,Usually,Usually,Sometimes,Rarely,Never,Usually
+3031,Rarely,Rarely,Rarely,Never,Never,Often,Rarely,Rarely,Never,Rarely,Never,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Never,Never,Usually
+3032,Sometimes,Rarely,Sometimes,Never,Rarely,Always,Rarely,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Often,Never,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes
+3033,Sometimes,Sometimes,Usually,Rarely,Rarely,Always,Sometimes,Sometimes,Never,Rarely,Rarely,Sometimes,Rarely,Sometimes,Rarely,Often,Often,Sometimes,Often,Rarely,Sometimes,Often,Often,Never,Never,Sometimes
+3034,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Rarely,Never,Rarely,Usually,Sometimes,Never,Never,Usually,Never,Never,Rarely,Never,Rarely,Never,Usually
+3035,Usually,Sometimes,Sometimes,Sometimes,Often,Always,Sometimes,Rarely,Never,Often,Rarely,Usually,Never,Usually,Often,Rarely,Sometimes,Rarely,Always,Never,Often,Often,Often,Never,Never,Sometimes
+3036,Sometimes,Rarely,Rarely,Never,Rarely,Usually,Often,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Often,Never,Rarely,Often,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Never,Usually
+3037,Always,Often,Sometimes,Rarely,Sometimes,Always,Sometimes,Never,Never,Often,Usually,Rarely,Never,Often,Rarely,Never,Never,Often,Sometimes,Rarely,Often,Always,Rarely,Never,Never,Often
+3038,Always,Sometimes,Usually,Always,Never,Sometimes,Sometimes,Rarely,Often,Usually,Always,Always,Never,Often,Often,Rarely,Always,Always,Sometimes,Usually,Always,Always,Often,Rarely,Usually,Usually
+3039,Sometimes,Rarely,Often,Rarely,Usually,Usually,Never,Rarely,Never,Rarely,Never,Usually,Rarely,Rarely,Often,Never,Usually,Rarely,Often,Never,Usually,Rarely,Usually,Never,Never,Always
+3040,Often,Rarely,Sometimes,Sometimes,Never,Sometimes,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes,Never,Never,Rarely,Never,Often,Rarely,Rarely,Sometimes,Sometimes,Rarely,Rarely,Usually
+3041,Always,Sometimes,Rarely,Never,Never,Always,Sometimes,Never,Never,Sometimes,Rarely,Usually,Never,Rarely,Never,Sometimes,Rarely,Rarely,Never,Rarely,Never,Usually,Often,Rarely,Never,Rarely
+3042,Always,Rarely,Sometimes,Usually,Never,Usually,Rarely,Never,Rarely,Often,Always,Usually,Rarely,Always,Never,Never,Rarely,Often,Rarely,Never,Usually,Always,Usually,Always,Often,Usually
+3043,Sometimes,Rarely,Often,Rarely,Rarely,Always,Never,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Usually,Never,Never,Never,Rarely,Often,Never,Often,Rarely,Often,Never,Never,Always
+3044,Usually,Usually,Usually,Usually,Usually,Usually,Often,Rarely,Often,Usually,Always,Always,Never,Usually,Rarely,Sometimes,Often,Usually,Often,Often,Always,Always,Always,Always,Usually,Sometimes
+3045,Always,Sometimes,Always,Sometimes,Rarely,Usually,Sometimes,Sometimes,Never,Often,Usually,Often,Rarely,Often,Rarely,Always,Rarely,Often,Often,Often,Always,Always,Sometimes,Sometimes,Rarely,Never
+3046,Sometimes,Rarely,Sometimes,Rarely,Never,Usually,Never,Never,Rarely,Sometimes,Often,Often,Never,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Usually
+3047,Often,Sometimes,Sometimes,Rarely,Never,Usually,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Usually,Often,Never,Never,Often,Never,Sometimes,Sometimes,Rarely,Never,Never,Sometimes
+3048,Usually,Rarely,Often,Rarely,Sometimes,Usually,Often,Never,Never,Usually,Usually,Often,Rarely,Often,Never,Often,Often,Often,Sometimes,Never,Usually,Often,Usually,Never,Never,Often
+3049,Rarely,Rarely,Sometimes,Never,Never,Always,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Usually,Never,Never,Never,Rarely,Sometimes,Never,Usually
+3050,Rarely,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never,Usually,Never,Never,Never,Rarely
+3051,Often,Rarely,Never,Never,Never,Always,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes,Often,Never,Never,Never,Never,Never,Always
+3052,Sometimes,Never,Sometimes,Never,Rarely,Often,Never,Sometimes,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Never,Usually,Never,Never,Rarely,Never,Rarely,Never,Sometimes
+3053,Often,Rarely,Sometimes,Rarely,Never,Usually,Rarely,Never,Never,Rarely,Rarely,Often,Never,Sometimes,Never,Often,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Never,Always
+3054,Always,Sometimes,Sometimes,Rarely,Rarely,Usually,Rarely,Never,Never,Sometimes,Often,Often,Never,Rarely,Never,Never,Rarely,Never,Often,Never,Sometimes,Never,Usually,Rarely,Never,Always
+3055,Always,Sometimes,Rarely,Sometimes,Usually,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Often,Never,Never,Never,Never,Never,Never,Always
+3056,Often,Sometimes,Rarely,Never,Sometimes,Usually,Often,Sometimes,Never,Rarely,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Never,Usually,Rarely,Rarely,Rarely,Sometimes,Sometimes,Never,Usually
+3057,Always,Always,Always,Never,Sometimes,Always,Always,Usually,Never,Usually,Sometimes,Sometimes,Rarely,Usually,Often,Usually,Often,Usually,Always,Never,Always,Usually,Always,Always,Often,Never
+3058,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Usually,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Often,Often
+3059,Often,Never,Sometimes,Sometimes,Rarely,Usually,Sometimes,Never,Rarely,Rarely,Rarely,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Usually,Never,Rarely,Never,Never,Sometimes,Rarely,Usually
+3060,Usually,Never,Usually,Never,Never,Usually,Never,Never,Never,Rarely,Rarely,Often,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Usually,Rarely,Rarely,Never,Never,Never
+3061,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Usually,Rarely,Never,Never,Never,Sometimes,Often,Never,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Usually,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Never,Usually
+3062,Rarely,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Always
+3063,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Sometimes,Never,Never,Often,Never,Never,Never,Never,Never,Never,Usually
+3064,Often,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Often,Sometimes,Never,Rarely,Rarely,Often,Sometimes,Rarely,Often,Often,Rarely,Rarely,Often,Never,Sometimes,Sometimes,Never,Sometimes,Never,Often
+3065,Rarely,Never,Sometimes,Never,Rarely,Often,Sometimes,Never,Never,Rarely,Rarely,Often,Never,Rarely,Rarely,Often,Often,Rarely,Usually,Rarely,Rarely,Sometimes,Often,Sometimes,Never,Usually
+3066,Sometimes,Rarely,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Rarely,Often,Rarely,Rarely,Often,Rarely,Rarely,Rarely,Often,Sometimes,Rarely,Rarely,Rarely,Never,Never,Often
+3067,Often,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Often,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Usually,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Never,Sometimes
+3068,Always,Rarely,Sometimes,Never,Never,Usually,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Usually,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Never,Always
+3069,Usually,Never,Always,Always,Rarely,Usually,Rarely,Rarely,Rarely,Sometimes,Often,Usually,Rarely,Rarely,Usually,Never,Rarely,Sometimes,Sometimes,Always,Usually,Sometimes,Sometimes,Rarely,Rarely,Always
+3070,Usually,Often,Rarely,Never,Rarely,Usually,Often,Usually,Never,Often,Usually,Often,Usually,Rarely,Rarely,Sometimes,Sometimes,Rarely,Usually,Sometimes,Rarely,Rarely,Sometimes,Often,Never,Usually
+3071,Usually,Sometimes,Often,Rarely,Sometimes,Always,Sometimes,Sometimes,Rarely,Often,Always,Always,Often,Often,Never,Rarely,Rarely,Often,Often,Often,Always,Always,Always,Never,Never,Always
+3072,Always,Rarely,Never,Never,Never,Always,Always,Rarely,Rarely,Always,Always,Always,Never,Always,Never,Often,Often,Sometimes,Always,Never,Often,Often,Often,Always,Never,Sometimes
+3073,Always,Sometimes,Sometimes,Never,Never,Sometimes,Rarely,Often,Never,Never,Rarely,Rarely,Never,Often,Rarely,Usually,Never,Never,Usually,Often,Sometimes,Rarely,Never,Sometimes,Never,Rarely
+3074,Rarely,Never,Rarely,Rarely,Sometimes,Usually,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Usually,Never,Never,Sometimes,Never,Rarely,Rarely,Always
+3075,Often,Rarely,Sometimes,Rarely,Rarely,Often,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Never,Rarely,Often,Rarely,Rarely,Never,Often,Sometimes,Rarely,Sometimes,Rarely,Never,Never,Sometimes
+3076,Usually,Sometimes,Often,Rarely,Rarely,Often,Rarely,Rarely,Never,Sometimes,Sometimes,Always,Rarely,Sometimes,Never,Rarely,Never,Rarely,Sometimes,Often,Often,Often,Sometimes,Never,Never,Rarely
+3077,Always,Sometimes,Sometimes,Sometimes,Sometimes,Always,Usually,Rarely,Never,Usually,Usually,Usually,Never,Sometimes,Never,Sometimes,Often,Sometimes,Sometimes,Sometimes,Sometimes,Often,Usually,Rarely,Never,Usually
+3078,Often,Sometimes,Rarely,Rarely,Never,Always,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Never,Never,Sometimes,Never,Usually,Never,Rarely,Never,Sometimes,Rarely,Never,Usually
+3079,Rarely,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Always
+3080,Often,Rarely,Often,Sometimes,Sometimes,Usually,Often,Never,Never,Sometimes,Sometimes,Usually,Never,Rarely,Never,Sometimes,Rarely,Never,Often,Never,Rarely,Often,Usually,Never,Never,Usually
+3081,Usually,Sometimes,Sometimes,Sometimes,Sometimes,Often,Often,Sometimes,Sometimes,Sometimes,Sometimes,Often,Sometimes,Sometimes,Sometimes,Often,Often,Sometimes,Often,Sometimes,Sometimes,Often,Usually,Often,Sometimes,Often
+3082,Never,Sometimes,Often,Sometimes,Sometimes,Sometimes,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Never,Never,Usually
+3083,Often,Rarely,Rarely,Rarely,Sometimes,Always,Always,Rarely,Rarely,Rarely,Sometimes,Usually,Never,Usually,Often,Never,Rarely,Rarely,Usually,Rarely,Rarely,Rarely,Usually,Rarely,Sometimes,Always
+3084,Usually,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually
+3085,Rarely,Never,Rarely,Never,Never,Usually,Never,Never,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes
+3086,Always,Sometimes,Often,Never,Often,Usually,Rarely,Never,Rarely,Often,Usually,Usually,Never,Rarely,Never,Usually,Rarely,Sometimes,Usually,Never,Often,Usually,Usually,Sometimes,Often,Often
+3087,Usually,Rarely,Sometimes,Rarely,Usually,Sometimes,Rarely,Rarely,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Usually,Never,Never,Usually,Rarely,Rarely,Rarely,Never,Never,Never,Always
+3088,Sometimes,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often
+3089,Rarely,Never,Often,Often,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Never,Often
+3090,Sometimes,Rarely,Sometimes,Often,Rarely,Sometimes,Rarely,Often,Never,Usually,Sometimes,Often,Never,Often,Never,Never,Never,Usually,Never,Rarely,Usually,Usually,Sometimes,Never,Never,Often
+3091,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Sometimes
+3092,Always,Rarely,Usually,Never,Rarely,Often,Usually,Never,Never,Sometimes,Often,Often,Never,Sometimes,Rarely,Rarely,Rarely,Never,Usually,Never,Never,Rarely,Often,Never,Never,Usually
+3093,Usually,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually
+3094,Usually,Sometimes,Sometimes,Rarely,Rarely,Usually,Sometimes,Sometimes,Never,Usually,Usually,Usually,Rarely,Rarely,Often,Rarely,Often,Often,Sometimes,Never,Sometimes,Usually,Usually,Usually,Never,Rarely
+3095,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Always,Rarely,Never,Never,Rarely,Rarely,Usually,Never,Sometimes,Never,Never,Sometimes,Never,Usually,Never,Sometimes,Never,Rarely,Never,Never,Always
+3096,Never,Never,Sometimes,Sometimes,Rarely,Usually,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Sometimes,Often,Never,Rarely,Rarely,Sometimes,Never,Never,Always
+3097,Never,Never,Sometimes,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Usually,Never,Never,Rarely,Never,Never,Never,Usually
+3098,Sometimes,Never,Never,Rarely,Never,Sometimes,Often,Never,Never,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Always
+3099,Always,Sometimes,Always,Often,Never,Always,Rarely,Always,Rarely,Always,Usually,Usually,Rarely,Always,Never,Sometimes,Rarely,Always,Rarely,Usually,Always,Always,Rarely,Usually,Never,Rarely
+3100,Usually,Sometimes,Always,Rarely,Rarely,Always,Rarely,Sometimes,Never,Often,Sometimes,Usually,Rarely,Never,Rarely,Rarely,Never,Often,Usually,Sometimes,Usually,Often,Usually,Sometimes,Never,Often
+3101,Sometimes,Rarely,Sometimes,Never,Sometimes,Usually,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Often,Rarely,Often,Often,Usually,Sometimes,Never,Usually
+3102,Never,Often,Often,Rarely,Rarely,Often,Often,Never,Never,Never,Sometimes,Usually,Rarely,Never,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Rarely,Rarely,Often,Sometimes,Never,Often
+3103,Always,Often,Usually,Often,Sometimes,Usually,Usually,Sometimes,Usually,Usually,Usually,Usually,Rarely,Usually,Sometimes,Often,Rarely,Usually,Rarely,Rarely,Always,Usually,Always,Usually,Often,Often
+3104,Usually,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Usually,Often,Rarely,Usually,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Often,Sometimes,Sometimes,Never,Often
+3105,Sometimes,Rarely,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Usually
+3106,Often,Never,Often,Never,Never,Often,Rarely,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Often,Never,Rarely,Never,Rarely,Rarely,Never,Usually
+3107,Rarely,Rarely,Never,Rarely,Rarely,Usually,Sometimes,Rarely,Never,Rarely,Rarely,Rarely,Never,Never,Rarely,Usually,Never,Never,Usually,Never,Never,Rarely,Sometimes,Rarely,Never,Usually
+3108,Always,Sometimes,Often,Often,Often,Usually,Often,Usually,Never,Sometimes,Usually,Usually,Often,Usually,Sometimes,Sometimes,Sometimes,Often,Sometimes,Often,Often,Sometimes,Usually,Always,Often,Sometimes
+3109,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Often,Never,Never,Never,Never,Always
+3110,Sometimes,Rarely,Rarely,Sometimes,Rarely,Usually,Usually,Rarely,Never,Never,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Sometimes,Often,Rarely,Never,Usually
+3111,Sometimes,Rarely,Sometimes,Never,Rarely,Sometimes,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Often,Never,Sometimes,Never,Sometimes,Never,Sometimes,Never,Never,Always
+3112,Always,Always,Always,Sometimes,Never,Always,Always,Usually,Never,Usually,Always,Always,Never,Always,Never,Usually,Often,Sometimes,Usually,Never,Rarely,Usually,Usually,Usually,Never,Often
+3113,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Always
+3114,Usually,Usually,Often,Usually,Sometimes,Often,Often,Rarely,Never,Rarely,Often,Usually,Rarely,Often,Usually,Sometimes,Often,Often,Often,Often,Usually,Usually,Usually,Usually,Never,Sometimes
+3115,Never,Never,Sometimes,Rarely,Never,Usually,Sometimes,Never,Never,Rarely,Rarely,Often,Never,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Rarely,Never,Rarely
+3116,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Always,Often,Never,Never,Sometimes,Often,Always,Never,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Often,Rarely,Sometimes,Rarely,Usually,Sometimes,Never,Often
+3117,Sometimes,Sometimes,Sometimes,Never,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,Sometimes,Usually,Sometimes,Always,Always,Never,Rarely,Always,Never,Never,Usually,Rarely,Rarely,Never,Always
+3118,Often,Rarely,Sometimes,Never,Sometimes,Often,Never,Often,Never,Rarely,Sometimes,Sometimes,Usually,Rarely,Never,Never,Rarely,Never,Often,Often,Rarely,Never,Rarely,Never,Never,Always
+3119,Sometimes,Rarely,Sometimes,Never,Sometimes,Usually,Never,Never,Never,Never,Rarely,Often,Never,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Never,Usually
+3120,Always,Sometimes,Usually,Usually,Never,Rarely,Rarely,Rarely,Never,Often,Sometimes,Rarely,Never,Often,Usually,Rarely,Never,Never,Sometimes,Never,Never,Often,Sometimes,Usually,Usually,Often
+3121,Usually,Sometimes,Often,Often,Sometimes,Usually,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Often,Never,Rarely,Never,Often,Never,Often,Sometimes,Never,Often,Often,Usually,Often,Sometimes,Always
+3122,Usually,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Sometimes,Never,Always
+3123,Sometimes,Rarely,Sometimes,Rarely,Never,Often,Rarely,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Often,Sometimes,Never,Often,Sometimes,Rarely,Sometimes,Rarely,Never,Never,Often
+3124,Usually,Rarely,Usually,Sometimes,Often,Usually,Often,Rarely,Never,Often,Usually,Usually,Never,Sometimes,Sometimes,Sometimes,Rarely,Usually,Sometimes,Rarely,Usually,Sometimes,Rarely,Rarely,Never,Usually
+3125,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Usually
+3126,Usually,Never,Always,Always,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Usually,Never,Usually,Never,Never,Never,Always,Often,Never,Usually,Always,Never,Sometimes,Never,Usually
+3127,Always,Sometimes,Rarely,Rarely,Rarely,Usually,Always,Rarely,Never,Often,Usually,Usually,Rarely,Often,Never,Rarely,Rarely,Never,Usually,Rarely,Rarely,Rarely,Usually,Often,Never,Sometimes
+3128,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Usually,Never,Never,Sometimes,Never,Sometimes,Never,Never,Never,Never,Usually
+3129,Usually,Never,Sometimes,Never,Sometimes,Never,Often,Often,Never,Never,Never,Often,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Usually,Never,Never,Never,Never,Sometimes,Never,Often
+3130,Often,Rarely,Sometimes,Rarely,Rarely,Sometimes,Never,Never,Never,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Never,Never,Never,Often,Never,Rarely,Rarely,Never,Never,Never,Often
+3131,Sometimes,Rarely,Often,Sometimes,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Usually
+3132,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Rarely,Never,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes
+3133,Often,Rarely,Rarely,Never,Never,Usually,Sometimes,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Sometimes
+3134,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Often,Rarely,Never,Rarely,Sometimes,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Usually
+3135,Sometimes,Sometimes,Sometimes,Rarely,Often,Often,Rarely,Never,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Often,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Often
+3136,Always,Sometimes,Usually,Rarely,Never,Usually,Never,Rarely,Never,Usually,Always,Always,Rarely,Usually,Never,Sometimes,Never,Usually,Usually,Rarely,Always,Usually,Usually,Often,Sometimes,Rarely
+3137,Sometimes,Rarely,Often,Never,Rarely,Often,Never,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Often,Never,Sometimes,Rarely,Often,Never,Never,Usually
+3138,Sometimes,Often,Usually,Often,Sometimes,Always,Often,Never,Never,Usually,Usually,Usually,Never,Often,Rarely,Usually,Rarely,Often,Often,Rarely,Usually,Usually,Usually,Sometimes,Never,Usually
+3139,Rarely,Never,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Often,Rarely,Never,Usually,Never,Rarely,Sometimes,Rarely,Rarely,Never,Usually
+3140,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Rarely,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Never,Sometimes
+3141,Usually,Rarely,Always,Always,Usually,Usually,Never,Never,Never,Often,Usually,Often,Never,Never,Never,Never,Often,Often,Sometimes,Rarely,Usually,Rarely,Often,Never,Never,Usually
+3142,Usually,Rarely,Sometimes,Never,Never,Sometimes,Never,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Rarely,Never,Never,Usually,Rarely,Rarely,Never,Never,Never,Never,Sometimes
+3143,Never,Rarely,Sometimes,Rarely,Never,Always,Sometimes,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Usually,Never,Never,Usually,Never,Rarely,Rarely,Never,Never,Never,Always
+3144,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often
+3145,Never,Rarely,Never,Never,Never,Often,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Never,Sometimes,Rarely,Never,Sometimes
+3146,Sometimes,Never,Often,Sometimes,Sometimes,Sometimes,Sometimes,Never,Never,Often,Often,Rarely,Never,Sometimes,Often,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Often,Sometimes,Sometimes,Sometimes,Never,Sometimes
+3147,Never,Never,Sometimes,Never,Never,Usually,Often,Never,Never,Never,Never,Sometimes,Never,Never,Never,Often,Rarely,Rarely,Usually,Never,Rarely,Sometimes,Never,Never,Never,Never
+3148,Never,Usually,Rarely,Never,Never,Usually,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Often,Never,Never,Never,Sometimes,Sometimes,Never,Often
+3149,Rarely,Rarely,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Usually
+3150,Rarely,Sometimes,Rarely,Rarely,Rarely,Usually,Usually,Never,Never,Never,Rarely,Sometimes,Never,Never,Sometimes,Usually,Never,Never,Sometimes,Rarely,Never,Rarely,Rarely,Never,Never,Usually
+3151,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Often,Often,Sometimes,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Never
+3152,Usually,Sometimes,Usually,Sometimes,Often,Always,Often,Rarely,Rarely,Usually,Usually,Often,Rarely,Sometimes,Never,Sometimes,Sometimes,Sometimes,Often,Usually,Often,Often,Sometimes,Often,Usually,Sometimes
+3153,Rarely,Never,Rarely,Rarely,Never,Sometimes,Usually,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Often,Never,Never,Usually,Rarely,Rarely,Often,Never,Never,Never,Always
+3154,Rarely,Sometimes,Sometimes,Never,Never,Sometimes,Rarely,Usually,Never,Never,Rarely,Never,Usually,Sometimes,Never,Often,Never,Never,Sometimes,Often,Sometimes,Sometimes,Sometimes,Often,Never,Usually
+3155,Sometimes,Rarely,Sometimes,Never,Never,Often,Rarely,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Often,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Never,Sometimes
+3156,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Always,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Usually,Often,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes
+3157,Rarely,Never,Usually,Rarely,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Rarely,Rarely,Never,Sometimes,Never,Always
+3158,Sometimes,Rarely,Sometimes,Sometimes,Often,Often,Often,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Often,Sometimes,Rarely,Rarely,Rarely
+3159,Sometimes,Sometimes,Sometimes,Sometimes,Never,Sometimes,Sometimes,Never,Never,Rarely,Sometimes,Sometimes,Never,Sometimes,Never,Never,Never,Never,Usually,Never,Rarely,Rarely,Sometimes,Never,Never,Always
+3160,Often,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Never,Rarely,Sometimes,Never,Sometimes,Never,Rarely,Rarely,Rarely,Never,Never,Rarely
+3161,Sometimes,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Never,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Never,Sometimes,Sometimes,Sometimes,Never,Never,Often
+5000,Rarely,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes,Never,Usually,Sometimes,Never,Often,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Never
+5001,Rarely,Never,Sometimes,Usually,Sometimes,Rarely,Never,Never,Never,Sometimes,Never,Sometimes,Rarely,Often,Sometimes,Never,Usually,Never,Sometimes,Sometimes,Sometimes,Never,Never,Usually,Never,Never
+5002,Sometimes,Never,Sometimes,Rarely,Usually,Never,Never,Sometimes,Rarely,Sometimes,Never,Often,Never,Rarely,Sometimes,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Never,Often,Never,Never
+5003,Sometimes,Sometimes,Sometimes,Often,Sometimes,Rarely,Never,Never,Never,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Never,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Never,Often,Never,Never
+5004,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Usually,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+5005,Often,Sometimes,Rarely,Always,Rarely,Often,Never,Often,Often,Often,Rarely,Usually,Never,Often,Often,Often,Often,Often,Often,Usually,Often,Rarely,Never,Usually,Once a month or less,Never
+5006,Never,Never,Never,Sometimes,Usually,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Often,Never,Never,Never,Never,Once a month or less,Never
+5007,Often,Rarely,Rarely,Usually,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Often,Never,Sometimes,Rarely,Never,Never,Never,Sometimes,Never,Never
+5008,Usually,Rarely,Never,Usually,Usually,Never,Never,Sometimes,Often,Sometimes,Never,Always,Never,Often,Never,Never,Often,Never,Never,Usually,Usually,Sometimes,Never,Usually,Never,Never
+5009,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Never,Never,Usually,Never,Never
+5010,Never,Never,Never,Rarely,Always,Never,Never,Never,Never,Never,Never,Rarely,Often,Always,Never,Never,Usually,Never,Rarely,Rarely,Rarely,Never,Never,Usually,Never,Never
+5011,Sometimes,Sometimes,Never,Usually,Sometimes,Sometimes,Never,Sometimes,Never,Rarely,Never,Sometimes,Rarely,Sometimes,Sometimes,Never,Sometimes,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Never,Never
+5012,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Always,Never,Never
+5013,Never,Never,Sometimes,Usually,Usually,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Often,Never,Never,Never,Never,Never,Never,Often,Never,Never
+5014,Often,Usually,Sometimes,Usually,Usually,Sometimes,Sometimes,Often,Usually,Sometimes,Sometimes,Often,Sometimes,Often,Often,Often,Often,Sometimes,Often,Often,Often,Sometimes,Sometimes,Always,Once a month or less,Never
+5015,Often,Never,Never,Always,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Always,Never,Never
+5016,Rarely,Never,Often,Sometimes,Rarely,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Usually,Rarely,Never,Usually,Never,Never,Sometimes,Rarely,Never,Never,Often,Never,Never
+5017,Rarely,Rarely,Rarely,Often,Usually,Never,Never,Never,Never,Usually,Never,Sometimes,Never,Often,Rarely,Never,Rarely,Never,Rarely,Usually,Often,Rarely,Never,Often,Never,Never
+5018,Rarely,Usually,Often,Often,Often,Sometimes,Never,Rarely,Usually,Usually,Never,Never,Rarely,Usually,Often,Often,Often,Rarely,Often,Rarely,Often,Often,Never,Usually,Never,Never
+5019,Often,Never,Never,Usually,Never,Never,Never,Never,Never,Sometimes,Never,Never,Often,Never,Never,Never,Always,Never,Never,Never,Never,Often,Never,Always,Never,Never
+5020,Rarely,Rarely,Rarely,Often,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Often,Never,Never
+5021,Never,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Never,Never,Often,Never,Never,Rarely,Never,Never,Never,Usually,Never,Never
+5022,Sometimes,Never,Never,Usually,Usually,Rarely,Never,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,Usually,Rarely,Rarely,Often,Never,Rarely,Sometimes,Often,Often,Never,Sometimes,Never,Never
+5023,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never,Never,Often,Never,Never,Often,Never,Never,Never,Always,Never,Never
+5024,Rarely,Never,Sometimes,Usually,Usually,Never,Never,Never,Rarely,Often,Never,Never,Often,Usually,Sometimes,Never,Usually,Never,Never,Never,Usually,Often,Never,Sometimes,Never,Never
+5025,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Always,Never,Never
+5026,Sometimes,Never,Never,Sometimes,Often,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Always,Never,Never,Usually,Never,Never,Sometimes,Never,Never,Never,Usually,Once a day or more,Once a day or more
+5027,Sometimes,Sometimes,Sometimes,Usually,Sometimes,Never,Never,Rarely,Rarely,Never,Sometimes,Rarely,Never,Usually,Often,Never,Rarely,Never,Sometimes,Often,Rarely,Never,Never,Often,Never,Once a week
+5028,Sometimes,Never,Sometimes,Sometimes,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Often,Often,Never,Never,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Never,Always,Never,Never
+5029,Rarely,Never,Rarely,Usually,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Often,Never,Never
+5030,Usually,Rarely,Often,Often,Sometimes,Sometimes,Never,Never,Never,Never,Never,Never,Usually,Always,Rarely,Sometimes,Usually,Rarely,Rarely,Sometimes,Rarely,Never,Never,Usually,Never,Never
+5031,Often,Never,Sometimes,Sometimes,Usually,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Often,Never,Never,Often,Never,Sometimes,Rarely,Never,Never,Never,Usually,Never,Never
+5032,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Always,Never,Never
+5033,Never,Never,Usually,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Always,Never,Never,Never,Never,Never,Never,Always,Never,Never
+5034,Often,Never,Sometimes,Always,Rarely,Rarely,Never,Sometimes,Sometimes,Always,Rarely,Often,Rarely,Rarely,Rarely,Rarely,Usually,Never,Sometimes,Rarely,Often,Rarely,Never,Sometimes,Never,Never
+5035,Never,Never,Never,Often,Sometimes,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+5036,Often,Never,Sometimes,Rarely,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Often,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Always,Never,Never
+5037,Often,Sometimes,Never,Always,Often,Sometimes,Never,Sometimes,Rarely,Sometimes,Rarely,Usually,Rarely,Sometimes,Rarely,Never,Usually,Sometimes,Often,Sometimes,Often,Never,Never,Usually,Once a month or less,Never
+5038,Sometimes,Usually,Rarely,Usually,Usually,Rarely,Often,Sometimes,Often,Sometimes,Rarely,Rarely,Never,Rarely,Usually,Rarely,Rarely,Rarely,Sometimes,Sometimes,Often,Rarely,Sometimes,Often,2-3 times a month,Once a month or less
+5039,Rarely,Rarely,Rarely,Sometimes,Usually,Sometimes,Never,Never,Often,Often,Never,Sometimes,Never,Often,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Usually,Never,Never
+5040,Rarely,Sometimes,Never,Usually,Usually,Rarely,Never,Sometimes,Often,Rarely,Never,Often,Never,Always,Usually,Sometimes,Usually,Often,Often,Usually,Usually,Rarely,Never,Sometimes,Once a month or less,Never
+5041,Sometimes,Often,Rarely,Rarely,Rarely,Never,Never,Often,Sometimes,Never,Never,Often,Usually,Rarely,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Rarely,Rarely,Never,Usually,Once a week,Never
+5042,Sometimes,Never,Sometimes,Often,Usually,Often,Never,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Often,Never,Sometimes,Usually,Often,Sometimes,Often,Sometimes,Rarely,Never,Often,Never,Once a month or less
+5043,Never,Never,Never,Often,Often,Never,Never,Never,Never,Often,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Usually,Never,Never,Sometimes,Never,Never,Never,Usually,Never,Never
+5044,Sometimes,Never,Never,Often,Sometimes,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Rarely,Rarely,Rarely,Usually,Never,Never,Rarely,Rarely,Never,Never,Always,Never,Never
+5045,Usually,Usually,Never,Always,Often,Usually,Never,Rarely,Rarely,Never,Rarely,Usually,Rarely,Always,Often,Often,Sometimes,Never,Sometimes,Usually,Sometimes,Sometimes,Never,Always,2-3 times a month,Never
+5046,Rarely,Never,Rarely,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Never
+5047,Rarely,Rarely,Rarely,Sometimes,Often,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Often,Never,Sometimes,Never,Sometimes,Often,Rarely,Never,Never,Often,Never,Never
+5048,Sometimes,Rarely,Rarely,Usually,Usually,Sometimes,Never,Often,Often,Usually,Never,Usually,Rarely,Often,Sometimes,Rarely,Often,Rarely,Rarely,Often,Always,Rarely,Never,Usually,Never,Never
+5049,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,Never,Sometimes,Never,Never,Often,Never,Never,Never,Always,Never,Never
+5050,Sometimes,Rarely,Rarely,Sometimes,Rarely,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Often,Rarely,Never,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Usually,Never,Never
+5051,Rarely,Never,Never,Usually,Always,Never,Never,Rarely,Rarely,Never,Never,Sometimes,Rarely,Usually,Never,Never,Usually,Never,Sometimes,Usually,Rarely,Often,Never,Often,Never,Never
+5052,Never,Never,Never,Often,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Never,Never,Always,Never,Never
+5053,Often,Often,Sometimes,Often,Often,Rarely,Never,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Once a week,Once a week
+5054,Always,Always,Rarely,Usually,Sometimes,Often,Never,Often,Usually,Often,Rarely,Usually,Never,Never,Rarely,Sometimes,Often,Often,Often,Often,Often,Sometimes,Never,Always,2-3 times a month,Never
+5055,Never,Rarely,Usually,Always,Rarely,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Often,Never,Never,Always,Always,Always,Rarely,Rarely,Never,Never,Always,Never,Never
+5056,Rarely,Never,Never,Often,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Usually,Never,Never
+5057,Sometimes,Never,Usually,Sometimes,Sometimes,Never,Never,Never,Never,Never,Never,Never,Usually,Often,Never,Never,Usually,Never,Rarely,Usually,Never,Never,Never,Always,Once a day or more,Once a day or more
+5058,Often,Often,Sometimes,Sometimes,Often,Often,Sometimes,Always,Usually,Usually,Often,Often,Often,Often,Often,Often,Often,Sometimes,Often,Often,Often,Often,Often,Sometimes,2-6 times a week,Once a week
+5059,Never,Sometimes,Rarely,Sometimes,Usually,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Rarely,Often,Never,Never,Never,Sometimes,Often,Never,Always,2-3 times a month,Never
+5060,Always,Never,Sometimes,Always,Never,Never,Never,Never,Rarely,Usually,Never,Never,Never,Never,Sometimes,Usually,Usually,Sometimes,Sometimes,Never,Usually,Never,Never,Usually,Never,Never
+5061,Rarely,Rarely,Never,Often,Rarely,Never,Never,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Often,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+5062,Always,Always,Usually,Often,Often,Often,Never,Usually,Rarely,Often,Sometimes,Always,Never,Often,Always,Always,Often,Always,Rarely,Often,Rarely,Usually,Usually,Always,Never,Never
+5063,Usually,Always,Rarely,Always,Always,Often,Never,Sometimes,Rarely,Often,Never,Rarely,Usually,Usually,Usually,Sometimes,Usually,Often,Usually,Often,Usually,Sometimes,Never,Usually,Once a month or less,Never
+5064,Sometimes,Never,Sometimes,Always,Usually,Rarely,Never,Never,Rarely,Often,Never,Rarely,Never,Usually,Sometimes,Rarely,Usually,Never,Rarely,Usually,Often,Sometimes,Never,Usually,Never,Never
+5065,Never,Never,Never,Sometimes,Often,Never,Never,Never,Never,Never,Never,Rarely,Never,Usually,Never,Never,Always,Never,Never,Never,Rarely,Never,Never,Always,Never,Never
+5066,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Always,Never,Never
+5067,Often,Usually,Rarely,Often,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Often,Sometimes,Sometimes,Sometimes,Rarely,Usually,Sometimes,Often,Sometimes,Often,Never,Never,Often,Once a month or less,Never
+5068,Usually,Always,Sometimes,Always,Always,Never,Never,Usually,Usually,Sometimes,Never,Often,Sometimes,Always,Sometimes,Often,Usually,Never,Usually,Often,Sometimes,Never,Never,Usually,2-6 times a week,Never
+5069,Rarely,Rarely,Sometimes,Often,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Always,Never,Never
+5070,Often,Usually,Rarely,Often,Usually,Never,Never,Often,Usually,Often,Rarely,Usually,Never,Usually,Sometimes,Sometimes,Rarely,Rarely,Usually,Always,Usually,Sometimes,Never,Usually,2-3 times a month,Never
+5071,Rarely,Rarely,Rarely,Often,Often,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Usually,Rarely,Rarely,Often,Never,Rarely,Often,Sometimes,Rarely,Never,Sometimes,Never,Never
+5072,Rarely,Never,Rarely,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Rarely,Never,Often,Never,Never,Never,Rarely,Never,Never,Usually,Never,Never
+5073,Often,Often,Rarely,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Never,Never,Often,Rarely,Sometimes,Never,Sometimes,Rarely,Never,Usually,Once a month or less,Never
+5074,Sometimes,Rarely,Never,Sometimes,Sometimes,Never,Never,Rarely,Rarely,Often,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Sometimes,Rarely,Never,Usually,Never,Never
+5075,Never,Never,Never,Usually,Always,Never,Never,Never,Never,Usually,Never,Never,Never,Rarely,Never,Never,Always,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never
+5076,Sometimes,Rarely,Never,Always,Usually,Never,Never,Rarely,Sometimes,Usually,Never,Sometimes,Rarely,Always,Always,Usually,Usually,Usually,Often,Always,Usually,Often,Never,Often,Once a month or less,Never
+5077,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Often,Sometimes,Rarely,Never,Rarely,Never,Never,Usually,Once a month or less,Never
+5078,Rarely,Never,Rarely,Sometimes,Often,Never,Never,Never,Never,Often,Never,Rarely,Never,Often,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Usually,Never,Never
+5079,Sometimes,Rarely,Rarely,Usually,Often,Never,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Often,Never,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Often,Once a month or less,Never
+5080,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+5081,Never,Never,Never,Often,Always,Never,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Rarely,Always,Never,Never,Often,Always,Never,Never,Always,Never,Never
+5082,Rarely,Rarely,Rarely,Sometimes,Often,Often,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,Never
+5083,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Often,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Usually,Once a month or less,Never
+5084,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+5085,Sometimes,Sometimes,Rarely,Rarely,Rarely,Never,Never,Rarely,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Often,Often,Rarely,Never,Often,Once a month or less,Never
+5086,Always,Never,Never,Often,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Always,Often,Never,Sometimes,Sometimes,Never,Always,Rarely,Never,Never,Never,Always,Never,Never
+5087,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never,Usually,Never,Never,Always,Never,Never,Never,Usually,Never,Never
+5088,Never,Never,Never,Sometimes,Never,Usually,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Rarely,Rarely,Sometimes,Rarely,Sometimes,Rarely,Usually,Rarely,Never,Always,Never,Never
+5089,Never,Sometimes,Rarely,Always,Usually,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Usually,Sometimes,Never,Usually,Never,Never,Never,Often,Never,Never,Sometimes,Never,Never
+5090,Often,Usually,Rarely,Always,Sometimes,Rarely,Never,Rarely,Usually,Sometimes,Rarely,Often,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Often,Often,Usually,Rarely,Never,Always,2-3 times a month,Never
+5091,Never,Always,Rarely,Sometimes,Sometimes,Never,Never,Often,Rarely,Rarely,Never,Often,Rarely,Usually,Often,Rarely,Never,Never,Rarely,Usually,Sometimes,Never,Never,Always,2-6 times a week,Never
+5092,Sometimes,Never,Never,Usually,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Always,Never,Once a month or less
+5093,Sometimes,Never,Often,Usually,Usually,Never,Never,Never,Rarely,Often,Never,Usually,Sometimes,Sometimes,Never,Never,Always,Never,Never,Sometimes,Never,Sometimes,Never,Sometimes,Never,Never
+5094,Sometimes,Rarely,Never,Usually,Rarely,Never,Never,Rarely,Rarely,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Never,Usually,Once a month or less,Never
+5095,Sometimes,Never,Sometimes,Never,Often,Never,Never,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Often,Never,Never
+5096,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Usually,Rarely,Rarely,Rarely,Often,Never,Never,Sometimes,Rarely,Never,Never,Often,Never,Never
+5097,Often,Never,Rarely,Usually,Often,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Often,Often,Never,Usually,Never,Rarely,Rarely,Often,Never,Never,Often,Never,Never
+5098,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Never,Never,Never,Rarely,Sometimes,Never,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Never,Often,2-3 times a month,Never
+5099,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Often,Never,Never
+5100,Never,Never,Never,Usually,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Rarely,Never,Often,Never,Never,Never,Never,Rarely,Never,Usually,Never,Never
+5101,Sometimes,Sometimes,Never,Often,Rarely,Never,Never,Rarely,Never,Rarely,Never,Rarely,Never,Never,Rarely,Never,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Never,Rarely,Once a week,Never
+5102,Rarely,Never,Rarely,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Usually,Never,Never,Usually,Sometimes,Rarely,Usually,Rarely,Never,Never,Always,Never,Never
+5103,Never,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Rarely,Never,Rarely,Often,Never,Never,Never,Rarely,Never,Never
+5104,Sometimes,Sometimes,Never,Never,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Never,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Rarely,Never,Never,Often,Once a month or less,Never
+5105,Sometimes,Sometimes,Often,Usually,Usually,Rarely,Never,Never,Never,Never,Never,Rarely,Often,Often,Sometimes,Rarely,Usually,Rarely,Sometimes,Usually,Rarely,Rarely,Never,Often,Never,Never
+5106,Rarely,Rarely,Never,Often,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Never,Often,Rarely,Usually,Often,Rarely,Usually,Rarely,Sometimes,Often,Often,Rarely,Rarely,Sometimes,Never,Never
+5107,Sometimes,Never,Sometimes,Never,Usually,Never,Never,Rarely,Never,Never,Never,Never,Never,Often,Never,Never,Usually,Never,Never,Never,Rarely,Never,Never,Usually,Never,Never
+5108,Often,Often,Never,Often,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Often,Never,Never
+5109,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Rarely,Often,Rarely,Often,Never,Usually,Rarely,Never,Often,Never,Rarely,Sometimes,Sometimes,Never,Never,Usually,Never,Never
+5110,Never,Never,Sometimes,Sometimes,Sometimes,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Usually,Never,Never,Sometimes,Never,Never,Sometimes,Sometimes,Never,Never,Always,Never,Never
+5111,Sometimes,Sometimes,Rarely,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Often,Never,Never,Never,Always,Once a month or less,Never
+5112,Rarely,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Never,Usually,Never,Rarely,Never,Rarely,Rarely,Never,Always,Never,Never
+5113,Sometimes,Never,Sometimes,Usually,Often,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Often,Never,Rarely,Sometimes,Often,Never,Never,Usually,Never,Never
+5114,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Never,Rarely,Sometimes,Rarely,Sometimes,Never,Never,Never,Never
+4000,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never
+4001,Always,Sometimes,Rarely,Usually,Usually,Always,Never,Often,Always,Always,Often,Always,Rarely,Always,Rarely,Often,Always,Sometimes,Always,Always,Usually,Always,Rarely,Always,Never,Once a month or less
+4002,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never
+4003,Never,Sometimes,Usually,Often,Sometimes,Rarely,Never,Rarely,Sometimes,Always,Sometimes,Often,Never,Sometimes,Often,Never,Often,Never,Sometimes,Rarely,Sometimes,Never,Never,Usually,Never,Never
+4004,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+4005,Usually,Usually,Never,Usually,Usually,Usually,Never,Often,Sometimes,Usually,Rarely,Often,Rarely,Usually,Often,Sometimes,Often,Rarely,Often,Often,Often,Sometimes,Never,Usually,2-3 times a month,Never
+4006,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Usually,Never,Never,Never,Sometimes,Rarely,Never,Usually,Once a week,Never
+4007,Rarely,Never,Often,Usually,Never,Never,Never,Never,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Never,Often,Never,Often,Rarely,Rarely,Never,Never,Always,Never,Never
+4008,Never,Never,Never,Usually,Sometimes,Never,Never,Never,Never,Often,Never,Never,Never,Often,Sometimes,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Usually,Never,Never
+4009,Sometimes,Never,Sometimes,Usually,Sometimes,Rarely,Never,Never,Never,Often,Often,Sometimes,Usually,Often,Never,Never,Often,Never,Usually,Sometimes,Never,Rarely,Never,Always,Never,Never
+4010,Never,Never,Never,Often,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+4011,Never,Rarely,Rarely,Often,Usually,Never,Never,Rarely,Never,Never,Never,Never,Never,Often,Sometimes,Never,Usually,Never,Never,Rarely,Sometimes,Sometimes,Never,Always,Never,Never
+4012,Never,Never,Always,Never,Usually,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,Never,Always,Never,Never,Rarely,Never,Never,Never,Usually,Never,Never
+4013,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+4014,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Often,Never,Rarely,Often,Sometimes,Sometimes,Sometimes,Never,Sometimes,Sometimes,Never,Often,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Never,Sometimes,Once a month or less,Never
+4015,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Rarely,Often,Never,Sometimes,Rarely,Rarely,Rarely,Often,Usually,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Often,Never,Never
+4016,Often,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Sometimes,Sometimes,Never,Often,Rarely,Never,Never,Never,Usually,Never,Never
+4017,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,Rarely,Rarely,Usually,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never
+4018,Sometimes,Rarely,Rarely,Sometimes,Often,Rarely,Never,Never,Never,Never,Never,Never,Never,Often,Rarely,Never,Often,Never,Never,Never,Never,Never,Never,Rarely,Never,Never
+4019,Often,Rarely,Never,Sometimes,Usually,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Rarely,Rarely,Sometimes,Never,Rarely,Sometimes,Once a month or less,Once a month or less
+4020,Rarely,Never,Rarely,Usually,Usually,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Sometimes,Never,Never,Usually,Never,Rarely,Never,Rarely,Rarely,Never,Rarely,Never,Never
+4021,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Always,Never,Never
+4022,Rarely,Never,Often,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Usually,Never,Rarely,Rarely,Never,Rarely,Never,Always,Never,Never
+4023,Never,Never,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Usually,Never,Never,Never,Rarely,Rarely,Never,Always,Never,Never
+4024,Rarely,Rarely,Usually,Rarely,Sometimes,Usually,Never,Never,Never,Rarely,Never,Rarely,Always,Rarely,Rarely,Rarely,Rarely,Never,Never,Often,Rarely,Rarely,Never,Often,Never,Never
+4025,Never,Never,Never,Always,Rarely,Rarely,Never,Never,Never,Never,Rarely,Rarely,Often,Rarely,Rarely,Never,Never,Rarely,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Never
+4026,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Often,Rarely,Never,Never,Never,Never,Never,Usually,Often,Never,Never,Usually,Never,Never
+4027,Sometimes,Never,Never,Usually,Always,Never,Never,Sometimes,Sometimes,Usually,Never,Rarely,Never,Rarely,Rarely,Rarely,Often,Never,Rarely,Rarely,Often,Never,Never,Always,Never,Never
+4028,Never,Never,Rarely,Sometimes,Never,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Sometimes,Never,Never,Always,Sometimes,Never,Rarely,Rarely,Never,Never,Sometimes,Never,Never
+4029,Sometimes,Never,Rarely,Rarely,Sometimes,Never,Never,Rarely,Never,Sometimes,Rarely,Never,Sometimes,Rarely,Never,Rarely,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Never,Always,Never,Never
+4030,Sometimes,Never,Sometimes,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes,Never,Once a month or less
+4031,Never,Never,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Always,Never,Never
+4032,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Rarely,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Never,Rarely,Often,Never,Sometimes,Sometimes,Never,Never,Never,Usually,Once a month or less,Never
+4033,Often,Rarely,Rarely,Usually,Usually,Sometimes,Never,Never,Never,Sometimes,Rarely,Sometimes,Never,Often,Often,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Never,Usually,Never,Never
+4034,Rarely,Rarely,Never,Sometimes,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Often,Never,Usually,Never,Never
+4035,Never,Sometimes,Never,Usually,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,Rarely,Rarely,Never,Always,Never,Always,Never,Never
+4036,Never,Sometimes,Never,Always,Never,Never,Never,Sometimes,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Always,Once a month or less,2-6 times a week
+4037,Often,Rarely,Never,Often,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Never,Sometimes,Never,Usually,Sometimes,Sometimes,Sometimes,Never,Rarely,Often,Sometimes,Sometimes,Sometimes,Usually,Once a month or less,Never
+4038,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Always,Never,Never
+4039,Rarely,Never,Never,Often,Rarely,Never,Never,Never,Never,Often,Never,Never,Never,Sometimes,Never,Never,Often,Rarely,Never,Sometimes,Rarely,Never,Never,Usually,Never,Never
+4040,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Never,Rarely,Never,Never,Usually,Never,Never
+4041,Often,Never,Never,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Rarely,Often,Often,Always,Never,Never,Always,Never,Rarely,Often,Never,Never,Never,Sometimes,Never,Never
+4042,Usually,Usually,Never,Usually,Often,Often,Never,Never,Never,Never,Usually,Sometimes,Sometimes,Usually,Never,Sometimes,Often,Often,Sometimes,Never,Never,Never,Never,Always,Once a week,Never
+4043,Sometimes,Rarely,Rarely,Usually,Sometimes,Sometimes,Often,Sometimes,Often,Often,Often,Rarely,Never,Rarely,Often,Rarely,Often,Often,Sometimes,Sometimes,Sometimes,Sometimes,Never,Sometimes,Never,Never
+4044,Sometimes,Never,Never,Usually,Sometimes,Never,Never,Never,Never,Sometimes,Rarely,Never,Sometimes,Often,Rarely,Rarely,Sometimes,Never,Rarely,Sometimes,Never,Never,Never,Usually,Never,Never
+4045,Often,Rarely,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Often,Never,Never
+4046,Sometimes,Sometimes,Never,Often,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Often,Never,Rarely,Sometimes,Never,Never,Never,Usually,Once a month or less,Never
+4047,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Always,Never,Never
+4048,Sometimes,Sometimes,Never,Usually,Rarely,Sometimes,Never,Rarely,Sometimes,Always,Sometimes,Often,Never,Never,Never,Never,Often,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Usually,Once a month or less,Never
+4049,Sometimes,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Always,Never,Never
+4050,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Usually,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Usually,Never,Never
+4051,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Often,Never,Never
+4052,Always,Never,Often,Often,Sometimes,Never,Never,Never,Never,Sometimes,Never,Rarely,Often,Usually,Never,Sometimes,Always,Rarely,Never,Usually,Never,Never,Never,Never,Never,Never
+4053,Rarely,Sometimes,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Rarely,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Rarely,Never,Never
+4054,Often,Rarely,Never,Always,Always,Often,Never,Rarely,Rarely,Sometimes,Usually,Sometimes,Never,Sometimes,Never,Never,Usually,Rarely,Rarely,Rarely,Often,Never,Never,Rarely,Once a month or less,Never
+4055,Sometimes,Never,Never,Often,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Never,Often,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Never
+4056,Never,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Rarely,Rarely,Never,Rarely,Sometimes,Often,Sometimes,Never,Usually,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+4057,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Often,Often,Never,Never,Often,Never,Never,Rarely,Never,Never,Never,Never,Never,Never
+4058,Rarely,Never,Rarely,Often,Rarely,Never,Never,Never,Never,Sometimes,Never,Sometimes,Often,Sometimes,Rarely,Never,Often,Never,Rarely,Sometimes,Sometimes,Sometimes,Never,Sometimes,Never,Never
+4059,Often,Never,Never,Often,Sometimes,Rarely,Rarely,Never,Never,Usually,Never,Never,Usually,Usually,Rarely,Often,Sometimes,Never,Often,Rarely,Rarely,Rarely,Never,Usually,Never,Never
+4060,Rarely,Sometimes,Never,Sometimes,Rarely,Never,Never,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Never,Never,Always,Once a month or less,Never
+4061,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never
+4062,Sometimes,Rarely,Usually,Usually,Usually,Often,Never,Sometimes,Sometimes,Sometimes,Often,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Often,Rarely,Often,Sometimes,Never,Sometimes,2-3 times a month,Never
+4063,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Never,Never,Rarely,Never,Sometimes,Sometimes,Sometimes,Sometimes,Often,Never,Never,Often,Rarely,Rarely,Often,Never,Often,Never,Always,Never,Never
+4064,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Often,Never,Never
+4065,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never
+4066,Usually,Rarely,Never,Usually,Rarely,Never,Never,Never,Rarely,Often,Never,Never,Usually,Often,Never,Rarely,Usually,Never,Rarely,Rarely,Never,Never,Never,Always,Never,Never
+4067,Sometimes,Rarely,Never,Often,Never,Rarely,Never,Never,Never,Often,Never,Never,Rarely,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Never,Usually,Never,Never
+4068,Never,Never,Never,Usually,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Usually,Never,Rarely,Rarely,Often,Never,Never,Often,Never,Never
+4069,Often,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Always,Never,Never
+4070,Rarely,Never,Rarely,Never,Never,Rarely,Never,Rarely,Never,Rarely,Sometimes,Rarely,Never,Never,Never,Never,Usually,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Usually,Never,Never
+4071,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Always,Never,Never
+4072,Usually,Rarely,Rarely,Usually,Sometimes,Never,Never,Never,Sometimes,Usually,Never,Never,Never,Never,Never,Never,Usually,Never,Usually,Never,Usually,Usually,Never,Never,Never,Never
+4073,Sometimes,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Rarely,Rarely,Often,Never,Never,Sometimes,Never,Never,Sometimes,Often,Rarely,Never,Often,Never,Never
+4074,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Always,Never,Never
+4075,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Often,Never,Never
+4076,Usually,Sometimes,Never,Sometimes,Sometimes,Never,Never,Sometimes,Sometimes,Always,Never,Sometimes,Usually,Rarely,Rarely,Sometimes,Rarely,Never,Often,Sometimes,Rarely,Sometimes,Never,Often,Once a month or less,Never
+4077,Usually,Never,Never,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Usually,Never,Rarely,Often,Never,Sometimes,Rarely,Often,Never,Never
+4078,Rarely,Never,Rarely,Often,Rarely,Never,Never,Never,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Never,Never,Often,Rarely,Rarely,Never,Never,Sometimes,Never,Always,Never,Never
+4079,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Often,Never,Never,Never,Sometimes,Rarely,Never,Often,Never,Never
+4080,Rarely,Rarely,Never,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Never,Usually,Rarely,Never,Often,Never,Never,Never,Often,Never,Never,Sometimes,Never,Never
+4081,Sometimes,Never,Never,Usually,Never,Always,Never,Never,Never,Never,Always,Never,Never,Never,Never,Sometimes,Usually,Always,Never,Never,Never,Never,Never,Always,Never,Never
+4082,Rarely,Never,Rarely,Often,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Rarely,Never,Usually,Rarely,Never,Never,Never,Sometimes,Never,Usually,Never,Never
+4083,Sometimes,Sometimes,Never,Usually,Rarely,Never,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never
+4084,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Sometimes,Never,Often,Never,Never,Never,Never,Never,Never,Often,Never,Never
+4085,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Never,Rarely,Usually,Rarely,Rarely,Rarely,Rarely,Rarely,Usually,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Never,Never
+4086,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Sometimes,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Never,Never
+4087,Often,Often,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Rarely,Sometimes,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+4088,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never
+4089,Sometimes,Never,Never,Sometimes,Never,Often,Never,Never,Never,Rarely,Often,Never,Sometimes,Rarely,Never,Never,Usually,Rarely,Rarely,Never,Never,Rarely,Never,Often,Never,Never
+4090,Sometimes,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Rarely,Often,Sometimes,Never,Usually,Never,Never,Usually,Sometimes,Rarely,Never,Sometimes,Never,Never
+4091,Never,Rarely,Often,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Often,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+4092,Sometimes,Usually,Never,Sometimes,Never,Sometimes,Often,Sometimes,Sometimes,Never,Usually,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Often,Never,Sometimes,Often,Often,Once a week,Once a month or less
+4093,Sometimes,Never,Sometimes,Usually,Sometimes,Rarely,Never,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Often,Rarely,Never,Usually,Never,Rarely,Sometimes,Sometimes,Never,Never,Usually,Never,Never
+4094,Usually,Rarely,Never,Often,Often,Never,Never,Rarely,Rarely,Usually,Rarely,Sometimes,Never,Rarely,Never,Sometimes,Never,Never,Rarely,Rarely,Rarely,Never,Never,Sometimes,Never,Never
+4095,Often,Rarely,Rarely,Usually,Usually,Often,Rarely,Often,Often,Usually,Sometimes,Usually,Rarely,Usually,Sometimes,Rarely,Usually,Sometimes,Rarely,Usually,Usually,Often,Rarely,Sometimes,Never,Never
+4096,Rarely,Never,Often,Often,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Often,Rarely,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Never,Always,Never,Never
+4097,Rarely,Never,Often,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never,Always,Sometimes,Never,Never,Rarely,Never,Never,Never,Always,Never,Never
+4098,Sometimes,Never,Sometimes,Always,Sometimes,Sometimes,Never,Sometimes,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Usually,Often,Never,Often,Sometimes,Rarely,Never,Usually,Never,Never
+4099,Rarely,Often,Rarely,Often,Never,Rarely,Never,Rarely,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Usually,Once a month or less,Never
+4100,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never,Rarely,Usually,Never,Never,Often,Never,Never,Never,Sometimes,Never,Never,Usually,Never,Never
+4101,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+4102,Sometimes,Rarely,Never,Rarely,Sometimes,Often,Never,Sometimes,Sometimes,Often,Usually,Often,Rarely,Usually,Rarely,Rarely,Usually,Usually,Sometimes,Usually,Usually,Rarely,Rarely,Often,Once a month or less,Never
+4103,Often,Sometimes,Never,Often,Rarely,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Usually,Rarely,Sometimes,Often,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Never,Usually,Never,Never
+4104,Never,Never,Rarely,Sometimes,Rarely,Never,Never,Never,Sometimes,Often,Sometimes,Sometimes,Never,Sometimes,Never,Never,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Never,Often,Never,Never
+4105,Rarely,Rarely,Never,Often,Rarely,Never,Never,Sometimes,Rarely,Often,Never,Never,Never,Never,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Sometimes,Never,Never,Usually,Never,Never
+4106,Usually,Usually,Sometimes,Often,Often,Sometimes,Never,Usually,Usually,Usually,Sometimes,Usually,Sometimes,Sometimes,Usually,Often,Often,Rarely,Often,Always,Usually,Usually,Never,Usually,Once a month or less,Never
+4107,Sometimes,Rarely,Sometimes,Often,Never,Never,Never,Never,Rarely,Sometimes,Sometimes,Often,Usually,Sometimes,Rarely,Rarely,Usually,Rarely,Rarely,Rarely,Often,Sometimes,Never,Often,Never,Never
+4108,Often,Sometimes,Rarely,Usually,Rarely,Sometimes,Never,Never,Never,Sometimes,Sometimes,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Rarely,Always,Never,Never
+4109,Rarely,Never,Never,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Rarely,Often,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Often,Never,Never
+4110,Rarely,Often,Rarely,Usually,Rarely,Always,Never,Sometimes,Never,Rarely,Usually,Never,Rarely,Never,Never,Often,Rarely,Usually,Sometimes,Rarely,Never,Rarely,Never,Rarely,Never,Never
+4111,Usually,Rarely,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Never,Often,Usually,Rarely,Always,Rarely,Never,Sometimes,Usually,Always,Never,Rarely,Rarely,Never,Never,Always,Never,Never
+4112,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Never,Often,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Never
+4113,Never,Never,Never,Always,Rarely,Never,Never,Never,Never,Often,Never,Rarely,Never,Sometimes,Rarely,Never,Often,Never,Never,Never,Sometimes,Never,Never,Always,Never,Never
+4114,Sometimes,Never,Rarely,Always,Rarely,Sometimes,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Usually,Sometimes,Rarely,Usually,Never,Rarely,Usually,Usually,Rarely,Never,Sometimes,Never,Never
+4115,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+4116,Rarely,Sometimes,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Often,Never,Never,Often,Sometimes,Never,Often,Never,Never,Never,Usually,Never,Never
+4117,Rarely,Rarely,Rarely,Usually,Sometimes,Never,Never,Sometimes,Rarely,Usually,Never,Rarely,Rarely,Often,Rarely,Never,Often,Never,Rarely,Sometimes,Often,Rarely,Never,Sometimes,Never,Never
+4118,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+4119,Rarely,Never,Rarely,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Never,Usually,Never,Never
+4120,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Often,Never,Never
+4121,Never,Never,Rarely,Often,Rarely,Sometimes,Never,Never,Never,Often,Sometimes,Rarely,Rarely,Always,Never,Never,Usually,Often,Never,Usually,Rarely,Never,Never,Usually,Never,Never
+4122,Sometimes,Never,Never,Often,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Rarely,Never,Never,Always,Never,Never
+4123,Never,Never,Never,Usually,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Never,Often,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Never
+4124,Sometimes,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Sometimes,Rarely,Rarely,Sometimes,Sometimes,Rarely,Never,Usually,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Never
+6000,Always,Never,Never,Rarely,Never,Rarely,Never,Never,Rarely,Rarely,Usually,Never,Never,Always,Never,Never,Never,Never,Usually,Sometimes,Never,Usually,Never,Rarely,Never,Never
+6001,Rarely,Never,Never,Rarely,Never,Sometimes,Never,Never,Never,Never,Often,Never,Never,Never,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Rarely,Never,Always,Never,Never
+6002,Sometimes,Sometimes,Rarely,Usually,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Often,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Always,Never,Never
+6003,Usually,Rarely,Sometimes,Often,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Rarely,Never,Never,Never,Often,Never,Never
+6004,Sometimes,Never,Never,Usually,Never,Never,Never,Never,Never,Usually,Usually,Often,Never,Usually,Never,Never,Always,Never,Never,Always,Often,Never,Never,Always,Never,Never
+6005,Sometimes,Sometimes,Sometimes,Often,Sometimes,Sometimes,Never,Often,Often,Often,Usually,Usually,Sometimes,Rarely,Usually,Sometimes,Always,Sometimes,Usually,Usually,Usually,Sometimes,Never,Usually,Once a month or less,Never
+6006,Sometimes,Sometimes,Rarely,Often,Never,Never,Never,Sometimes,Rarely,Usually,Never,Sometimes,Never,Never,Never,Rarely,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Never,Usually,Once a month or less,Never
+6007,Usually,Never,Never,Often,Never,Usually,Never,Never,Never,Never,Always,Usually,Often,Always,Rarely,Rarely,Usually,Often,Never,Often,Often,Never,Never,Always,Never,Never
+6008,Sometimes,Sometimes,Often,Usually,Never,Never,Never,Never,Never,Never,Never,Never,Always,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Often,Never,Never
+6009,Often,Never,Never,Sometimes,Rarely,Rarely,Never,Rarely,Always,Always,Rarely,Usually,Never,Never,Rarely,Rarely,Sometimes,Rarely,Often,Never,Often,Sometimes,Never,Always,Never,Never
+6010,Often,Never,Never,Usually,Rarely,Never,Never,Never,Never,Usually,Usually,Always,Always,Never,Never,Never,Often,Never,Never,Never,Usually,Usually,Never,Always,Never,Never
+6011,Rarely,Always,Never,Always,Sometimes,Rarely,Usually,Rarely,Often,Often,Rarely,Never,Never,Sometimes,Sometimes,Usually,Usually,Rarely,Often,Rarely,Usually,Never,Never,Sometimes,Never,Never
+6012,Sometimes,Never,Never,Rarely,Never,Never,Never,Rarely,Rarely,Always,Rarely,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Often,Rarely,Rarely,Rarely,Never,Usually,Never,Never
+6013,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never
+6014,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never
+6015,Never,Never,Sometimes,Always,Rarely,Usually,Never,Never,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Never,Sometimes,Usually,Never,Often,Rarely,Never,Never,Never,Always,Never,Never
+6016,Sometimes,Never,Usually,Usually,Sometimes,Never,Never,Rarely,Rarely,Usually,Rarely,Never,Always,Often,Rarely,Never,Usually,Sometimes,Often,Rarely,Often,Never,Never,Always,Never,Never
+6017,Rarely,Rarely,Rarely,Sometimes,Never,Sometimes,Never,Rarely,Sometimes,Often,Sometimes,Sometimes,Always,Always,Rarely,Rarely,Usually,Rarely,Sometimes,Usually,Sometimes,Sometimes,Never,Rarely,Never,Never
+6018,Never,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Sometimes,Never,Sometimes,Never,Never
+6019,Sometimes,Rarely,Never,Always,Often,Rarely,Never,Rarely,Often,Never,Never,Never,Never,Sometimes,Sometimes,Never,Usually,Never,Never,Never,Usually,Often,Never,Always,Never,Never
+6020,Often,Usually,Never,Usually,Never,Never,Never,Sometimes,Rarely,Always,Never,Sometimes,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Often,Once a month or less,Never
+6021,Rarely,Never,Never,Always,Sometimes,Never,Never,Never,Never,Usually,Never,Often,Rarely,Sometimes,Sometimes,Never,Often,Rarely,Rarely,Sometimes,Usually,Sometimes,Never,Always,Never,Never
+6022,Rarely,Never,Never,Sometimes,Never,Sometimes,Never,Never,Sometimes,Usually,Rarely,Usually,Never,Often,Never,Never,Usually,Never,Never,Never,Rarely,Never,Never,Usually,Once a day or more,Once a day or more
+6023,Sometimes,Never,Never,Always,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Often,Sometimes,Never,Usually,Never,Never,Usually,Usually,Never,Never,Always,Never,Never
+6024,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Always,Never,Never
+6025,Sometimes,Usually,Sometimes,Always,Always,Often,Never,Often,Sometimes,Rarely,Sometimes,Often,Rarely,Usually,Rarely,Often,Always,Sometimes,Sometimes,Usually,Often,Never,Never,Always,Once a month or less,Never
+6026,Sometimes,Always,Never,Often,Never,Never,Rarely,Sometimes,Rarely,Always,Never,Often,Never,Rarely,Often,Rarely,Rarely,Never,Rarely,Often,Sometimes,Rarely,Sometimes,Never,Once a month or less,Once a month or less
+6027,Sometimes,Never,Never,Usually,Often,Never,Never,Rarely,Sometimes,Sometimes,Never,Sometimes,Never,Sometimes,Never,Rarely,Rarely,Never,Often,Rarely,Sometimes,Never,Never,Always,Never,Never
+6028,Sometimes,Never,Never,Usually,Never,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Never,Never,Usually,Rarely,Rarely,Rarely,Sometimes,Never,Never,Always,Never,Never
+6029,Never,Never,Rarely,Usually,Rarely,Sometimes,Never,Rarely,Never,Never,Usually,Never,Never,Sometimes,Never,Never,Always,Never,Never,Sometimes,Never,Rarely,Never,Often,Never,Never
+6030,Usually,Often,Often,Always,Rarely,Rarely,Never,Often,Usually,Usually,Never,Usually,Never,Often,Often,Often,Often,Often,Usually,Often,Often,Often,Rarely,Often,Once a month or less,Never
+6031,Rarely,Rarely,Often,Sometimes,Often,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Sometimes,Sometimes,Rarely,Never,Often,Never,Sometimes,Sometimes,Rarely,Never,Never,Sometimes,Once a month or less,Never
+6032,Rarely,Never,Never,Often,Never,Never,Never,Rarely,Rarely,Often,Rarely,Often,Sometimes,Rarely,Rarely,Never,Often,Never,Rarely,Rarely,Rarely,Never,Never,Often,Never,Never
+6033,Sometimes,Rarely,Never,Sometimes,Sometimes,Never,Never,Rarely,Never,Never,Sometimes,Never,Never,Sometimes,Rarely,Rarely,Often,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Always,Never,Never
+6034,Sometimes,Sometimes,Sometimes,Often,Rarely,Always,Never,Usually,Always,Sometimes,Always,Always,Always,Always,Always,Always,Never,Always,Always,Always,Usually,Always,Rarely,Often,Once a month or less,Never
+6035,Often,Sometimes,Often,Always,Often,Never,Never,Often,Sometimes,Usually,Usually,Usually,Always,Rarely,Often,Rarely,Usually,Sometimes,Sometimes,Often,Often,Never,Never,Often,Never,Never
+6036,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Usually,Never,Never
+6037,Often,Rarely,Rarely,Sometimes,Never,Never,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Often,Often,Rarely,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Never,Sometimes,Never,Never
+6038,Rarely,Sometimes,Sometimes,Often,Sometimes,Never,Never,Sometimes,Sometimes,Often,Never,Often,Rarely,Usually,Usually,Always,Often,Never,Often,Often,Usually,Sometimes,Never,Sometimes,2-6 times a week,Never
+6039,Often,Sometimes,Sometimes,Usually,Rarely,Never,Never,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Sometimes,Rarely,Sometimes,Rarely,Never,Always,Once a month or less,Never
+6040,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+6041,Sometimes,Never,Never,Always,Often,Never,Never,Never,Rarely,Always,Rarely,Sometimes,Never,Sometimes,Never,Never,Often,Never,Never,Never,Never,Never,Never,Always,Never,Never
+6042,Often,Rarely,Never,Sometimes,Rarely,Rarely,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Never,Often,Never,Never
+6043,Rarely,Rarely,Never,Always,Rarely,Often,Never,Sometimes,Rarely,Usually,Sometimes,Rarely,Rarely,Rarely,Often,Never,Often,Often,Rarely,Sometimes,Sometimes,Often,Never,Rarely,Once a day or more,Never
+6044,Rarely,Sometimes,Never,Sometimes,Rarely,Sometimes,Never,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Sometimes,Once a month or less,Never
+6045,Often,Sometimes,Rarely,Usually,Rarely,Never,Never,Rarely,Sometimes,Often,Never,Sometimes,Never,Never,Sometimes,Sometimes,Sometimes,Sometimes,Often,Often,Sometimes,Never,Never,Always,2-3 times a month,Never
+6046,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never,Often,Never,Never,Never,Never,Never,Never,Always,Never,Never
+6047,Always,Always,Never,Always,Always,Rarely,Never,Usually,Usually,Always,Never,Usually,Never,Usually,Rarely,Often,Rarely,Sometimes,Always,Often,Always,Never,Never,Always,Once a week,Never
+6048,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Always,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Rarely,Sometimes,Rarely,Rarely,Usually,Never,Never
+6049,Rarely,Never,Never,Always,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Usually,Never,Never,Never,Often,Never,Never,Usually,Never,Never
+6050,Rarely,Never,Never,Usually,Often,Never,Never,Never,Rarely,Usually,Never,Never,Never,Always,Never,Never,Usually,Never,Rarely,Rarely,Never,Sometimes,Never,Usually,Never,Never
+6051,Rarely,Rarely,Never,Rarely,Rarely,Never,Never,Never,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Never,Never,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Never,Usually,Never,Never
+6052,Never,Never,Sometimes,Always,Never,Sometimes,Never,Never,Rarely,Usually,Sometimes,Often,Never,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+6053,Sometimes,Rarely,Never,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Never,Usually,Never,Never,Never,Usually,Never,Never,Often,Never,Never
+6054,Never,Rarely,Never,Never,Never,Never,Never,Sometimes,Never,Often,Never,Never,Never,Never,Never,Never,Often,Rarely,Never,Never,Never,Never,Never,Rarely,Once a week,Never
+6055,Often,Never,Usually,Usually,Often,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Usually,Often,Never,Never,Usually,Never,Rarely,Never,Usually,Never,Never,Always,Never,Never
+6056,Sometimes,Never,Never,Usually,Sometimes,Rarely,Never,Never,Rarely,Often,Never,Often,Never,Never,Sometimes,Never,Usually,Never,Sometimes,Never,Usually,Never,Never,Always,Never,Never
+6057,Rarely,Never,Never,Often,Sometimes,Never,Never,Never,Never,Usually,Never,Never,Never,Usually,Sometimes,Rarely,Usually,Never,Never,Sometimes,Often,Sometimes,Never,Usually,Never,Never
+6058,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes,Never,Rarely,Sometimes,Sometimes,Never,Often,Never,Never,Rarely,Rarely,Never,Never,Often,Never,Never
+6059,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never
+6060,Sometimes,Usually,Never,Sometimes,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Rarely,Never,Rarely,Rarely,Never,Sometimes,Never,Rarely,Never,Rarely,Never,Never,Often,Once a month or less,Never
+6061,Often,Rarely,Never,Usually,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Usually,Never,Never,Usually,Never,Never,Rarely,Sometimes,Never,Never,Usually,Never,Never
+6062,Rarely,Rarely,Rarely,Usually,Sometimes,Rarely,Never,Rarely,Sometimes,Often,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Usually,Rarely,Often,Sometimes,Often,Never,Never,Rarely,Never,Never
+6063,Often,Rarely,Sometimes,Usually,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Rarely,Never,Rarely,Never,Sometimes,Never,Never,Usually,Once a week,Never
+6064,Rarely,Rarely,Rarely,Always,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Rarely,Often,Rarely,Never,Usually,Never,Rarely,Rarely,Rarely,Rarely,Never,Usually,Never,Never
+6065,Rarely,Rarely,Never,Often,Often,Sometimes,Never,Rarely,Rarely,Often,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Rarely,Rarely,Never,Rarely,Sometimes,Sometimes,Never,Never,Often,Once a month or less,Never
+6066,Often,Sometimes,Never,Always,Usually,Never,Never,Never,Never,Usually,Never,Sometimes,Rarely,Usually,Usually,Rarely,Often,Rarely,Sometimes,Sometimes,Often,Rarely,Never,Always,Once a month or less,Never
+6067,Usually,Never,Never,Always,Usually,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Always,Sometimes,Sometimes,Never,Usually,Never,Never,Always,Never,Never
+6068,Never,Sometimes,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Rarely,Never,Rarely,Never,Never,Usually,Never,Never
+6069,Always,Sometimes,Often,Always,Usually,Usually,Never,Often,Sometimes,Usually,Usually,Often,Always,Usually,Usually,Usually,Always,Sometimes,Always,Always,Usually,Often,Rarely,Always,Once a week,Never
+6070,Rarely,Rarely,Never,Usually,Often,Rarely,Never,Never,Never,Often,Never,Rarely,Never,Often,Sometimes,Rarely,Always,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Usually,Once a month or less,Never
+6071,Rarely,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Often,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Sometimes,Rarely,Sometimes,Never,Sometimes,Never,Never
+6072,Often,Often,Rarely,Often,Rarely,Rarely,Never,Often,Rarely,Usually,Never,Sometimes,Rarely,Never,Never,Often,Rarely,Rarely,Usually,Rarely,Never,Never,Never,Always,2-3 times a month,Never
+6073,Never,Never,Never,Usually,Sometimes,Never,Never,Rarely,Never,Rarely,Never,Never,Never,Often,Never,Never,Often,Sometimes,Rarely,Never,Sometimes,Never,Never,Sometimes,Once a day or more,Once a day or more
+6074,Sometimes,Often,Rarely,Usually,Rarely,Sometimes,Never,Sometimes,Rarely,Often,Never,Rarely,Never,Never,Sometimes,Rarely,Usually,Never,Sometimes,Sometimes,Sometimes,Never,Never,Always,2-3 times a month,Never
+6075,Sometimes,Never,Never,Always,Never,Never,Never,Never,Never,Usually,Never,Rarely,Never,Rarely,Never,Never,Usually,Never,Rarely,Never,Rarely,Rarely,Never,Usually,Never,Never
+6076,Often,Never,Never,Always,Never,Never,Never,Never,Never,Never,Sometimes,Sometimes,Sometimes,Usually,Never,Never,Usually,Never,Rarely,Often,Never,Never,Never,Sometimes,Never,Never
+6077,Always,Always,Sometimes,Always,Always,Sometimes,Never,Usually,Always,Usually,Rarely,Always,Rarely,Usually,Often,Usually,Often,Usually,Usually,Always,Usually,Usually,Often,Usually,2-3 times a month,Never
+6078,Rarely,Never,Rarely,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Always,Never,Never
+6079,Sometimes,Sometimes,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+6080,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Sometimes,Never,Rarely,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Rarely,Never,Never,Often,Never,Never
+6081,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Sometimes,Rarely,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Sometimes,Never,Usually,Never,Never
+6082,Never,Never,Sometimes,Often,Never,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Often,Rarely,Never,Usually,Rarely,Never,Never,Sometimes,Never,Never,Always,Never,Never
+6083,Sometimes,Never,Rarely,Sometimes,Never,Rarely,Never,Never,Never,Never,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Usually,Never,Never,Never,Never,Rarely,Never,Always,Never,Never
+6084,Sometimes,Rarely,Sometimes,Sometimes,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Often,Never,Never,Usually,Sometimes,Rarely,Rarely,Never,Sometimes,Never,Always,Once a month or less,Never
+6085,Never,Never,Never,Never,Never,Never,Never,Never,Never,Usually,Usually,Never,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Always,Never,Never
+6086,Sometimes,Rarely,Rarely,Often,Never,Never,Never,Never,Rarely,Rarely,Rarely,Rarely,Never,Never,Never,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Sometimes,Rarely,Never,Often,Never,Never
+6087,Often,Rarely,Rarely,Always,Rarely,Never,Rarely,Sometimes,Sometimes,Often,Rarely,Sometimes,Often,Rarely,Sometimes,Rarely,Often,Rarely,Never,Sometimes,Rarely,Sometimes,Never,Usually,Never,Never
+6088,Sometimes,Sometimes,Rarely,Usually,Never,Never,Never,Never,Sometimes,Always,Never,Always,Sometimes,Usually,Never,Rarely,Usually,Never,Sometimes,Rarely,Never,Never,Never,Sometimes,Never,Never
+6089,Sometimes,Sometimes,Often,Always,Usually,Often,Never,Sometimes,Often,Usually,Often,Usually,Rarely,Usually,Sometimes,Sometimes,Rarely,Usually,Often,Often,Usually,Often,Never,Usually,2-3 times a month,Never
+6090,Sometimes,Never,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Never,Never,Usually,Never,Sometimes,Never,Never,Rarely,Never,Usually,Never,Never
+6091,Never,Never,Never,Often,Never,Never,Never,Rarely,Rarely,Always,Never,Sometimes,Usually,Never,Never,Often,Usually,Sometimes,Never,Sometimes,Never,Never,Never,Usually,Never,Never
+6092,Often,Rarely,Never,Always,Often,Usually,Never,Never,Rarely,Usually,Never,Sometimes,Never,Usually,Sometimes,Rarely,Always,Sometimes,Often,Always,Usually,Often,Never,Usually,Never,Never
+6093,Often,Often,Sometimes,Often,Sometimes,Never,Never,Usually,Rarely,Usually,Rarely,Rarely,Rarely,Rarely,Sometimes,Rarely,Often,Never,Rarely,Sometimes,Often,Sometimes,Never,Usually,2-3 times a month,Never
+6094,Never,Never,Never,Never,Never,Usually,Never,Never,Never,Never,Usually,Rarely,Rarely,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Always,2-3 times a month,Never
+6095,Sometimes,Rarely,Often,Often,Rarely,Rarely,Never,Never,Never,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Often,Usually,Sometimes,Often,Never,Never,Never,Never,Usually,Never,Never
+6096,Rarely,Sometimes,Sometimes,Usually,Often,Never,Never,Rarely,Never,Usually,Usually,Never,Never,Rarely,Rarely,Never,Usually,Never,Rarely,Rarely,Rarely,Never,Never,Usually,Never,Never
+6097,Often,Sometimes,Never,Rarely,Rarely,Never,Never,Rarely,Rarely,Usually,Never,Often,Rarely,Usually,Sometimes,Sometimes,Sometimes,Never,Often,Often,Often,Rarely,Never,Usually,Once a month or less,Never
+6098,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Once a month or less,Once a day or more
+6099,Often,Often,Sometimes,Often,Never,Never,Never,Never,Never,Often,Never,Never,Never,Never,Rarely,Rarely,Sometimes,Never,Never,Rarely,Never,Never,Never,Always,2-3 times a month,Never
+6100,Often,Rarely,Rarely,Sometimes,Sometimes,Never,Never,Never,Never,Often,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Usually,2-3 times a month,Never
+6101,Sometimes,Rarely,Usually,Usually,Often,Never,Never,Never,Rarely,Rarely,Never,Sometimes,Rarely,Sometimes,Rarely,Rarely,Often,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Always,Once a month or less,Never
+6102,Often,Often,Often,Often,Often,Often,Usually,Sometimes,Usually,Often,Usually,Often,Often,Often,Usually,Often,Often,Usually,Often,Usually,Often,Often,Often,Often,Once a week,Once a week
+6103,Often,Usually,Rarely,Often,Always,Sometimes,Never,Usually,Usually,Often,Often,Usually,Sometimes,Usually,Usually,Usually,Sometimes,Often,Sometimes,Sometimes,Usually,Never,Never,Sometimes,Once a week,Never
+6104,Rarely,Rarely,Rarely,Usually,Rarely,Rarely,Never,Rarely,Never,Often,Sometimes,Rarely,Never,Often,Rarely,Never,Often,Never,Rarely,Rarely,Sometimes,Never,Never,Usually,Never,Never
+6105,Sometimes,Sometimes,Never,Always,Usually,Never,Never,Sometimes,Never,Rarely,Often,Rarely,Never,Sometimes,Sometimes,Never,Never,Never,Rarely,Rarely,Never,Rarely,Never,Sometimes,2-3 times a month,Never
+6106,Often,Never,Never,Always,Never,Sometimes,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Often,Always,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+6107,Often,Never,Rarely,Sometimes,Rarely,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Rarely,Rarely,Never,Never,Usually,Rarely,Rarely,Sometimes,Never,Never,Never,Usually,Never,Never
+6108,Sometimes,Rarely,Sometimes,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Often,Rarely,Never,Often,Never,Never,Sometimes,Rarely,Rarely,Never,Always,Never,Never
+6109,Rarely,Rarely,Rarely,Usually,Always,Often,Never,Never,Never,Never,Sometimes,Rarely,Rarely,Usually,Never,Never,Sometimes,Rarely,Rarely,Sometimes,Never,Never,Never,Always,Never,Never
+6110,Rarely,Never,Always,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Usually,Sometimes,Never,Rarely,Usually,Rarely,Sometimes,Always,Never,Never,Never,Rarely,Never,Never
+6111,Sometimes,Rarely,Sometimes,Always,Never,Rarely,Never,Rarely,Often,Usually,Rarely,Sometimes,Sometimes,Usually,Often,Sometimes,Usually,Rarely,Sometimes,Always,Usually,Sometimes,Never,Always,Never,Never
+6112,Never,Never,Never,Sometimes,Never,Never,Never,Sometimes,Sometimes,Usually,Sometimes,Sometimes,Never,Usually,Never,Sometimes,Often,Rarely,Never,Often,Never,Never,Never,Always,Never,Never
+6113,Rarely,Never,Sometimes,Rarely,Rarely,Rarely,Never,Never,Never,Rarely,Often,Never,Rarely,Never,Never,Never,Sometimes,Never,Never,Never,Never,Rarely,Never,Sometimes,Never,Never
+6114,Sometimes,Sometimes,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Often,Rarely,Rarely,Rarely,Rarely,Never,Usually,Never,Rarely,Rarely,Rarely,Never,Never,Always,Once a month or less,Never
+6115,Usually,Rarely,Never,Always,Never,Sometimes,Rarely,Often,Always,Usually,Rarely,Usually,Never,Rarely,Often,Sometimes,Usually,Often,Usually,Always,Always,Usually,Sometimes,Always,Never,Never
+6116,Never,Sometimes,Always,Sometimes,Usually,Never,Never,Sometimes,Often,Often,Never,Sometimes,Rarely,Sometimes,Never,Never,Sometimes,Never,Never,Never,Sometimes,Never,Never,Sometimes,Once a month or less,Never
+6117,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Sometimes,Sometimes,Rarely,Sometimes,Usually,Never,Never,Never,Usually,Never,Never,Never,Never,Usually,Never,Always,Never,Never
+6118,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Sometimes,Never,Never,Never,Never,Sometimes,Rarely,Often,Never,Never,Sometimes,Never,Never,Never,Always,Never,Never
+6119,Often,Sometimes,Rarely,Always,Usually,Never,Never,Sometimes,Often,Usually,Never,Usually,Never,Sometimes,Often,Sometimes,Sometimes,Never,Rarely,Rarely,Often,Rarely,Never,Always,Once a month or less,Never
+6120,Sometimes,Never,Never,Never,Never,Rarely,Never,Never,Never,Often,Rarely,Never,Always,Sometimes,Never,Never,Often,Never,Never,Never,Never,Never,Never,Often,Never,Never
+6121,Sometimes,Sometimes,Rarely,Often,Rarely,Often,Never,Rarely,Rarely,Sometimes,Often,Sometimes,Often,Sometimes,Never,Never,Often,Sometimes,Rarely,Usually,Sometimes,Rarely,Never,Always,Once a month or less,Never
+6122,Never,Never,Never,Often,Never,Sometimes,Never,Never,Never,Sometimes,Rarely,Never,Never,Always,Never,Never,Always,Rarely,Never,Always,Never,Never,Never,Often,Never,Never
+6123,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Always,Never,Never
+6124,Usually,Rarely,Sometimes,Always,Never,Sometimes,Never,Rarely,Never,Rarely,Sometimes,Rarely,Sometimes,Sometimes,Rarely,Rarely,Usually,Often,Often,Sometimes,Sometimes,Rarely,Never,Usually,Never,Never
+6125,Often,Sometimes,Often,Often,Often,Sometimes,Sometimes,Sometimes,Often,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Often,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,Never
+6126,Often,Sometimes,Never,Sometimes,Never,Rarely,Never,Rarely,Rarely,Rarely,Usually,Often,Never,Never,Never,Sometimes,Usually,Usually,Usually,Rarely,Rarely,Rarely,Never,Usually,Once a month or less,Never
+6127,Never,Rarely,Never,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Rarely,Rarely,Rarely,Never,Usually,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+6128,Sometimes,Rarely,Sometimes,Often,Sometimes,Never,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Sometimes,Rarely,Sometimes,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Sometimes,Never,Never
+6129,Never,Never,Never,Sometimes,Sometimes,Never,Never,Never,Rarely,Rarely,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never
+6130,Sometimes,Never,Sometimes,Sometimes,Never,Never,Never,Rarely,Never,Sometimes,Never,Rarely,Sometimes,Rarely,Rarely,Never,Often,Never,Never,Rarely,Never,Never,Never,Usually,Never,Never
+6131,Never,Rarely,Sometimes,Often,Rarely,Never,Never,Never,Rarely,Sometimes,Never,Never,Never,Sometimes,Rarely,Never,Rarely,Never,Never,Never,Sometimes,Rarely,Never,Usually,Never,Never
+6132,Rarely,Rarely,Always,Always,Never,Never,Never,Never,Never,Always,Never,Rarely,Usually,Usually,Sometimes,Never,Usually,Never,Never,Never,Usually,Never,Never,Sometimes,Never,Never
+6133,Often,Sometimes,Rarely,Rarely,Rarely,Never,Never,Never,Never,Often,Never,Often,Sometimes,Never,Never,Rarely,Rarely,Rarely,Rarely,Never,Rarely,Never,Rarely,Often,Once a month or less,Never
+6134,Usually,Usually,Usually,Usually,Usually,Usually,Often,Often,Often,Often,Often,Often,Usually,Usually,Usually,Usually,Usually,Usually,Usually,Often,Often,Often,Often,Often,2-6 times a week,2-6 times a week
+6135,Sometimes,Rarely,Usually,Often,Rarely,Sometimes,Never,Never,Never,Rarely,Sometimes,Never,Usually,Rarely,Never,Never,Often,Rarely,Rarely,Often,Never,Rarely,Never,Often,Never,Never
+6136,Rarely,Never,Rarely,Usually,Sometimes,Rarely,Never,Never,Never,Often,Sometimes,Rarely,Usually,Rarely,Rarely,Never,Usually,Rarely,Never,Rarely,Rarely,Rarely,Never,Usually,Never,Never
+6137,Usually,Rarely,Rarely,Usually,Never,Always,Often,Often,Often,Usually,Usually,Usually,Never,Never,Never,Sometimes,Usually,Usually,Sometimes,Usually,Rarely,Always,Often,Rarely,Never,2-3 times a month
+6138,Rarely,Sometimes,Sometimes,Always,Sometimes,Sometimes,Never,Never,Never,Sometimes,Rarely,Never,Never,Sometimes,Never,Never,Usually,Always,Rarely,Never,Usually,Rarely,Never,Sometimes,Never,Never
+6139,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Never,Often,Never,Never,Never,Usually,Never,Never
+6140,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Sometimes,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+6141,Never,Never,Never,Usually,Rarely,Never,Never,Never,Often,Rarely,Never,Often,Never,Never,Never,Never,Often,Never,Never,Never,Never,Sometimes,Never,Usually,Never,Never
+6142,Rarely,Never,Rarely,Rarely,Never,Usually,Never,Never,Never,Never,Often,Never,Usually,Never,Never,Never,Rarely,Often,Never,Never,Never,Rarely,Never,Often,Never,Never
+6143,Rarely,Never,Rarely,Rarely,Never,Never,Never,Rarely,Rarely,Never,Rarely,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Never,Usually,Never,Never
+6144,Rarely,Never,Never,Usually,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Never,Sometimes,Usually,Never,Sometimes,Rarely,Often,Rarely,Rarely,Rarely,Sometimes,Rarely,Never,Often,Never,Never
+6145,Often,Rarely,Rarely,Usually,Sometimes,Never,Never,Rarely,Rarely,Usually,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Rarely,Often,Rarely,Sometimes,Rarely,Never,Often,Never,Never
+6146,Never,Never,Never,Sometimes,Never,Never,Never,Never,Never,Rarely,Rarely,Never,Always,Rarely,Never,Never,Usually,Never,Never,Rarely,Never,Never,Never,Always,Never,Never
+6147,Usually,Usually,Usually,Usually,Sometimes,Sometimes,Sometimes,Often,Often,Always,Often,Usually,Sometimes,Sometimes,Sometimes,Sometimes,Always,Sometimes,Often,Sometimes,Sometimes,Sometimes,Often,Sometimes,Once a month or less,2-3 times a month
+6148,Rarely,Never,Sometimes,Sometimes,Rarely,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Rarely,Rarely,Sometimes,Never,Never,Sometimes,Never,Never,Rarely,Never,Rarely,Never,Often,Never,Never
+6149,Never,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Often,Never,Usually,Usually,Never,Never,Always,Never,Never,Never,Never,Never,Never,Usually,Never,Never
+6150,Rarely,Never,Sometimes,Often,Sometimes,Never,Never,Rarely,Never,Rarely,Rarely,Rarely,Rarely,Sometimes,Often,Rarely,Usually,Never,Never,Rarely,Often,Rarely,Never,Usually,Never,Never
+6151,Usually,Never,Never,Usually,Never,Rarely,Never,Rarely,Never,Usually,Rarely,Rarely,Never,Never,Rarely,Never,Usually,Never,Never,Rarely,Never,Sometimes,Never,Sometimes,Never,Never
+6152,Rarely,Never,Never,Rarely,Rarely,Never,Never,Never,Never,Often,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Usually,Rarely,Rarely,Rarely,Rarely,Rarely,Rarely,Often,Never,Never
+6153,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Never,Often,Never,Often,Never,Never,Never,Often,Never,Never,Often,Never,Never
+6154,Rarely,Never,Often,Rarely,Never,Never,Never,Never,Never,Never,Usually,Never,Usually,Rarely,Rarely,Never,Usually,Sometimes,Never,Rarely,Never,Rarely,Never,Rarely,Never,Never
+6155,Sometimes,Sometimes,Never,Sometimes,Sometimes,Rarely,Never,Rarely,Sometimes,Sometimes,Often,Sometimes,Rarely,Sometimes,Usually,Never,Sometimes,Never,Rarely,Rarely,Usually,Rarely,Never,Usually,2-3 times a month,Never
+6156,Never,Never,Never,Usually,Never,Rarely,Never,Never,Never,Never,Often,Rarely,Never,Never,Never,Never,Usually,Never,Never,Never,Never,Rarely,Never,Always,Never,Never
+6157,Rarely,Rarely,Never,Rarely,Never,Rarely,Rarely,Rarely,Sometimes,Sometimes,Sometimes,Sometimes,Sometimes,Never,Never,Never,Often,Rarely,Never,Never,Never,Sometimes,Rarely,Usually,Never,Never
+6158,Rarely,Sometimes,Never,Sometimes,Never,Rarely,Never,Rarely,Never,Sometimes,Sometimes,Rarely,Never,Sometimes,Rarely,Never,Usually,Rarely,Never,Sometimes,Never,Rarely,Never,Rarely,Never,Never
+6159,Often,Never,Rarely,Often,Never,Sometimes,Never,Never,Never,Rarely,Never,Sometimes,Often,Rarely,Rarely,Never,Sometimes,Never,Never,Never,Rarely,Never,Never,Sometimes,Never,Never
+6160,Sometimes,Sometimes,Never,Always,Usually,Rarely,Never,Never,Never,Often,Rarely,Never,Never,Never,Never,Never,Never,Rarely,Never,Never,Never,Never,Never,Usually,Once a month or less,Never
+6161,Sometimes,Sometimes,Often,Always,Usually,Rarely,Never,Never,Usually,Always,Rarely,Usually,Rarely,Rarely,Rarely,Never,Usually,Rarely,Rarely,Rarely,Usually,Never,Never,Always,Once a month or less,Never
+6162,Never,Sometimes,Never,Usually,Never,Never,Never,Never,Never,Never,Never,Rarely,Never,Usually,Never,Never,Often,Never,Never,Never,Never,Rarely,Never,Always,Once a month or less,Never
+6163,Rarely,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Often,Often,Always,Never,Never,Never,Often,Sometimes,Never,Never,Never,Never,Never,Often,Never,Never
+6164,Sometimes,Never,Usually,Usually,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Rarely,Rarely,Never,Rarely,Sometimes,Never,Often,Never,Rarely,Rarely,Often,Rarely,Never,Often,Never,Never
+6165,Never,Never,Sometimes,Always,Often,Never,Never,Never,Never,Often,Never,Never,Never,Often,Never,Never,Usually,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never
+6166,Often,Often,Never,Usually,Rarely,Never,Never,Sometimes,Rarely,Never,Never,Rarely,Sometimes,Sometimes,Often,Rarely,Rarely,Never,Sometimes,Often,Sometimes,Rarely,Never,Usually,2-3 times a month,Never
+6167,Never,Never,Never,Sometimes,Sometimes,Never,Never,Never,Never,Never,Never,Never,Never,Sometimes,Never,Never,Often,Never,Never,Sometimes,Never,Never,Never,Often,Never,Never
+6168,Rarely,Rarely,Rarely,Usually,Sometimes,Rarely,Never,Rarely,Rarely,Sometimes,Rarely,Rarely,Never,Sometimes,Sometimes,Rarely,Sometimes,Never,Rarely,Rarely,Sometimes,Often,Never,Usually,Never,Never
