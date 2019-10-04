@@ -1,0 +1,69 @@
+﻿question_id,question_text,survey
+EIS1,1. How good I feel about my body depends a lot on how I look.,embodied image scale
+EIS2,2. I do physically active things often.,embodied image scale
+EIS2,3. How good I feel about my body depends a lot on whether people consider me good-looking.,embodied image scale
+EIS4,4. I always try to physically challenge myself during physical activities.,embodied image scale
+EIS5,5. I feel really good about the way I look.,embodied image scale
+EIS6,"6. I participate in physical activities whenever I can (e.g., sports, hiking, exercise).",embodied image scale
+EIS7,7. One of the most important reasons why people should take care of their bodies is so they can look good.,embodied image scale
+EIS8,8. Overall I am very satisfied with my physical abilities.,embodied image scale
+EIS9,9. I wear certain things to make myself look as attractive as I can.,embodied image scale
+EIS10,10. How good I feel about my body depends a lot on what my body can do physically.,embodied image scale
+EIS11,11. I always try to look the best I can.,embodied image scale
+EIS12,12. I feel really good about what I can do physically.,embodied image scale
+EIS13,13. I am very happy with the appearance of my body.,embodied image scale
+EIS14,14. One of the most important reasons why people should take care of their bodies is so they can be physically active.,embodied image scale
+EIS15,15. Overall I am very satisfied with my appearance.,embodied image scale
+EIS16,16. I am very happy with my performance in physical activities.,embodied image scale
+EIS17,"17. One of the most important reasons why people should take care of their bodies is so they can feel good about their physical abilities (e.g., strength, fitness, endurance).",embodied image scale
+EAT1,1. Am terrified about being overweight.,eating attitudes test
+EAT2,2. Avoid eating when I am hungry.,eating attitudes test
+EAT3,3. Find myself preoccupied with food.,eating attitudes test
+EAT4,4. Have gone on eating binges where I feel that I may not be able to stop.,eating attitudes test
+EAT5,5. Cut my food into small pieces.,eating attitudes test
+EAT6,6. Am aware of the calorie content of foods that I eat.,eating attitudes test
+EAT7,"7. Particularly avoid food with a high carbohydrate content (i.e., bread, rice, potatoes, etc.)",eating attitudes test
+EAT8,8. Feel that others would prefer if I ate more.,eating attitudes test
+EAT9,9. Vomit after I have eaten.,eating attitudes test
+EAT10,10. Feel extremely guilty after eating.,eating attitudes test
+EAT11,11. Am preoccupied with a desire to be thinner.,eating attitudes test
+EAT12,12. Think about burning up calories when I exercise.,eating attitudes test
+EAT13,13. Other people think I am too thin.,eating attitudes test
+EAT14,14. Am preoccupied with the thought of having fat on my body.,eating attitudes test
+EAT15,15. Take longer than others to eat my meals,eating attitudes test
+EAT16,16. Avoid food with sugar in them.,eating attitudes test
+EAT17,17. Eat diet foods.,eating attitudes test
+EAT18,18. Feel that food controls my life.,eating attitudes test
+EAT19,19. Display self-control around food.,eating attitudes test
+EAT20,20. Feel that others pressure me to eat.,eating attitudes test
+EAT21,21. Give too much time and thought to food.,eating attitudes test
+EAT22,22. Feel uncomfortable after eating sweets.,eating attitudes test
+EAT23,23. Engage in dieting behavior.,eating attitudes test
+EAT24,24. Like my stomach being empty.,eating attitudes test
+EAT25,25. Have the impulse to vomit after meals.,eating attitudes test
+EAT26,26. Enjoy trying new rich foods.,eating attitudes test
+DFM1,1. I wish that I were more muscular.,drive for muscularity
+DMF2,2. I lift weights to build up muscle.,drive for muscularity
+DFM3,3. I use protein or energy supplements.,drive for muscularity
+DFM4,4. I drink weight-gain or protein shakes.,drive for muscularity
+DFM5,5. I try to consume as many calories as I can in a day.,drive for muscularity
+DFM6,6. I feel guilty if I miss a weight training session.,drive for muscularity
+DFM7,7. I think I would feel more confident if I had more muscle mass.,drive for muscularity
+DFM8,8. Other people think I work out with weights too often.,drive for muscularity
+DFM9,9. I think I would look better if I gained 10 pounds in bulk.,drive for muscularity
+DFM10,10. I think about taking anabolic steroids.,drive for muscularity
+DFM11,11. I think that I would feel stronger if I gained a little more muscle mass.,drive for muscularity
+DFM12,12. I think that my weight-training schedule interferes with other aspects of my life.,drive for muscularity
+DFM13,13. I think my arms are not muscular enough.,drive for muscularity
+DFM14,14. I think my chest is not muscular enough.,drive for muscularity
+DFM15,15. I think my legs are not muscular enough.,drive for muscularity
+DFL1,1. I think the best looking bodies are well-toned.,drive for leanness
+DFL2,2. The goal of working out should be to get in shape.,drive for leanness
+DLF3,3. People’s muscles should be toned but not over-developed.,drive for leanness
+DLF4,"4. Having a lean, hard body would make me feel better about myself.",drive for leanness
+DLF5,"5. When a person’s body is hard and firm, its says they are well-disciplined.",drive for leanness
+DLF6,6. My goal is to have well-toned muscles.,drive for leanness
+DLF7,7. Athletic looking people are the most attractive people.,drive for leanness
+DFL8,8. It is best to be thin but not skinny.,drive for leanness
+DLF9,9. It is important to have well-defined abs.,drive for leanness
+DLF10,10. People with well-toned muscles look good in clothes.,drive for leanness
