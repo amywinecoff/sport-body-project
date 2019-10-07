@@ -1,4 +1,4 @@
-﻿subj,sport,gender,orientation,age,education,race,duration,frequency,per_women,current,ideal,diff,thinness,tone,size
+﻿subj,sport,gender,orientation,age,education,race,duration,frequency,percent women,current,ideal,diff,thinness,tone,size
 1004,Rock climbing,Female,5-Attracted to men exclusively,,21,Other,4-6 years,One day a week,About 75%,4,4,0,1,3,2
 4004,Rock climbing,Male,1-Attracted to women exclusively,,22,"White, Caucasian",10 or more years,One day a week,About 25%,,,,,,
 5058,CrossFit,Male,1-Attracted to women exclusively,18,12,Other,Less than 1 year,Four days a week,About 75%,,,,,,
