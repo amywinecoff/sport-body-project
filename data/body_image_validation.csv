@@ -1,4 +1,4 @@
-subj,Gender,emaciation_rating,detail_rating,size_rating,attractiveness_rating,body_num,detail,size,emaciation
+subj,gender,emaciation_rating,detail_rating,size_rating,attractiveness_rating,body_num,detail,size,emaciation
 1,Male,3,2,2,3,body1,0,0,0.25
 1,Male,2,2,1,3,body2,0,0,0.5
 1,Male,4,2,2,3,body3,0,0,0.75
