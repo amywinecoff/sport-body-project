@@ -9,11 +9,13 @@ library(gridExtra)
 #https://bookdown.org/roback/bookdown-bysh/ch-multilevelintro.html
 #https://www.barelysignificant.com/post/icc/
 
-setwd("/Users/awinecoff/Desktop/mlm")
+#setwd("/Users/awinecoff/Desktop/mlm")
+setwd("/Users/amywinecoff/Documents/GitHub/sport_body_project/data")
 decisionData <- read.csv("data_for_R_glm.csv", header =TRUE)
-decisionDataWomen<-droplevels.data.frame(decisionData)#drop any ghost levels
-decisionDataWomen <-na.omit(decisionData)
+decisionData<-droplevels.data.frame(decisionData)#drop any ghost levels
+decisionData <-na.omit(decisionData)
 #setwd("/Users/amywinecoff/Documents/sport_body_project/sport_body_project/analysis")
+setwd("/Users/amywinecoff/Documents/GitHub/sport_body_project/analysis")
 
 decisionDataWomen <-subset(decisionData, gender=="Female")
 decisionDataMen<-subset(decisionData, gender == "Male")
@@ -84,16 +86,24 @@ generatePlots <- function(data, feature, model){
   return(p)
 }
 
+summary(wm)
+summary(mm)
+
+
 p_we <-generatePlots(decisionDataWomen, "emaciation", wm)
 p_wd <-generatePlots(decisionDataWomen, "detail", wm)
 p_ws <-generatePlots(decisionDataWomen, "size", wm)
+
 #https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
+#png(file="women_dim_pred.png",
+#    width=900, height=300)
+
 grid.arrange(p_we, p_wd, p_ws, nrow = 1, top="Effect of Body Dimension on Choice (Women)")
+#dev.off()
 
 p_me <-generatePlots(decisionDataMen, "emaciation", mm)
 p_md <-generatePlots(decisionDataMen, "detail", mm)
 p_ms <-generatePlots(decisionDataMen, "size", mm)
-#https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
 grid.arrange(p_me, p_md, p_ms, nrow = 1, top="Effect of Body Dimension on Choice (Men)")
 
 
