@@ -9,7 +9,14 @@ leanness (muscular detail), and muscularity (muscular size) between sports.
 Male and female participants answered questions about their sports participation and demographics then participanted in 
 a body decision task. In this task, participants were asked to choose which of two bodies more closely resembled their
 ideal body (or ideal body for a female partner, for men). In all decisions, one of the bodies had a baseline level
-of emaciation, musuclar detail, and muscular size, and the other body varied along these dimensions. 
+of emaciation, musuclar detail, and muscular size.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+
+
+and the other body varied along these dimensions. 
 After completing the body decision task, participants responded to survey questions to assess disordered eating,
 drive for muscularity, drive for leanness, and functional versus asthetic body image values.
 
