@@ -21,3 +21,7 @@ After completing the body decision task, participants responded to survey questi
 
 Results indicate that women who participate in CrossFit were more likely to choose bodies with higher levels of muscular size and detail than runners or rock climbers. In contrast, runners and rock climbers were more likely to choose bodies with higher levels of emaciation than CrossFitters. 
 
+Using the trained model parameters, here's how the level of each of the three body dimensions affected the predicted probability of choosing the "test" image within each of the sports:
+
+![Image of Baseline Model](https://github.com/amywinecoff/sport-body-project/blob/master/analysis/women_dim_pred.png)
+
