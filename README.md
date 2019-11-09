@@ -25,5 +25,5 @@ Using the trained model parameters, here's how the level of each of the three bo
 
 ![Image of Baseline Model](https://github.com/amywinecoff/sport-body-project/blob/master/analysis/women_dim_pred.png)
 
-All the data for this project, including survey responses, sport participation responses, and other body ratings data are located in the data folder [title](https://www.example.com) in this repo. The stimuli folder contains the questionnaires as well as all the body images. The methods folder contains a more detailed description of the study methodology and the survey instruments. 
+All the data for this project, including survey responses, sport participation responses, and other body ratings data are located in the [data folder](https://github.com/amywinecoff/sport-body-project/tree/master/data) in this repo. The [stimuli folder](https://github.com/amywinecoff/sport-body-project/tree/master/methods/stimuli) contains the questionnaires as well as all the body images. The [description folder](https://github.com/amywinecoff/sport-body-project/tree/master/methods/description) contains a more detailed description of the study methodology and the survey instruments. 
 
