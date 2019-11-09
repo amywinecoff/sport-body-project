@@ -1,5 +1,5 @@
 # The Sport Body Project 
-## An analysis of the relationship between body preferences and choice of sport
+## An analysis of sport-specific body preferences
 
 The data, stimuli, and analysis contained in this repo are a part of a research effort to understand if participation in sports
 with different functional demands--running, rock climbing, and CrossFit--is associated with different body preferences. Specifically,
