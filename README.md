@@ -11,7 +11,7 @@ a body decision task. In this task, participants were asked to choose which of t
 ideal body (or ideal body for a female partner, for men). In all decisions, one of the bodies had a baseline level
 of emaciation, musuclar detail, and muscular size.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/amywinecoff/sport_body_project/blob/master/methods/stimuli/decision_stimuli/0_BBD0_BBS0_E0.jpg)
 
 
 
